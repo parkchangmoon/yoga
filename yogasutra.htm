@@ -20,16 +20,24 @@ $(document).ready(function(){
 
     $(".button2").click(function(){
     $('p').hide();
-    var $dd=$("#chaja").val();
-    $('p:contains("'+ $dd +'")').show();
+    var dd=$("#chaja").val();
+    $('p:contains("'+ dd +'")').show();
+    $('p:contains("'+ dd +'")').each(function(){
+          var regex=new RegExp(dd,'gi');
+    $(this).html($(this).text().replace(regex,"<span class='chaja-color'>" + dd + "</span>"))
+    })
     });
 
-    $(".button3").click(function(){
+   $(".button3").click(function(){
     $('p').hide();
-    var $dd=$("#chaja").val();
-    $('pre:contains("'+ $dd +'")').show();
-    });
-});
+    var dd=$("#chaja").val();
+    $('pre:contains("'+ dd +'")').show();
+    $('p:contains("'+ dd +'")').each(function(){
+          var regex=new RegExp(dd,'gi');
+    $(this).html($(this).text().replace(regex,"<span class='chaja-color'>" + dd + "</span>"))
+    })
+    })
+  });
 
 </script>
 <style>
@@ -46,6 +54,9 @@ h3 {
 button {
   margin-top: 20px;
 }	
+.chaja-color {
+  background-color:orange;
+}
 </style>
 </head>
 <body>
