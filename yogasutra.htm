@@ -34,7 +34,9 @@ $(document).ready(function(){
     $('pre:contains("'+ dd +'")').show();
     $('p:contains("'+ dd +'")').each(function(){
           var regex=new RegExp(dd,'gi');
-    $(this).html($(this).text().replace(regex,"<span class='chaja-color'>" + dd + "</span>"))
+    $(this).html($(this).text().replace(regex,"<code>" + dd + "</code>"))
+
+  //  $(this).html($(this).text().replace(regex,"<span class='chaja-color'>" + dd + "</span>"))
     })
     })
   });
@@ -56,6 +58,9 @@ button {
 }	
 .chaja-color {
   background-color:orange;
+}
+code {
+  background-color:yellow;
 }
 </style>
 </head>
