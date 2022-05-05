@@ -11,32 +11,21 @@
 <script type="text/javascript">
 $(document).ready(function(){
     $("div").click(function(){
-  	$(this.children[1]).toggle();
+    $(this.children[1]).toggle();
     });
 
     $(".button1").click(function(){
-   	$("pre").toggle();
+      //$("p").reset();
+    $("pre").toggle();
     });
-
+    
     $(".button2").click(function(){
-    $('p').hide();
-    var dd=$("#chaja").val();
-    $('p:contains("'+ dd +'")').show();
-    $('p:contains("'+ dd +'")').each(function(){
+    var  dd=$("#chaja").val();
+      $("div").not('div:contains("'+ dd +'")').hide();  
+     $('div:contains("'+ dd +'")').each(function(){
           var regex=new RegExp(dd,'gi');
-    $(this).html($(this).text().replace(regex,"<span class='chaja-color'>" + dd + "</span>"))
-    })
-    });
-
-   $(".button3").click(function(){
-     $('p').hide();
-    var dd=$("#chaja").val();
-    $('p:contains("'+ dd +'")').show();
-    $('pre:contains("'+ dd +'")').show();
-    $('pre:contains("'+ dd +'")').each(function(){
-          var regex=new RegExp(dd,'gi');
-    $(this).html($(this).text().replace(regex,"<code>" + dd + "</code>"))
-  //  $(this).html($(this).text().replace(regex,"<span class='chaja-color'>" + dd + "</span>"))
+   $(this).html($(this).html().replace(regex,"<code>" + dd + "</code>"))
+   
     })
     })
   });
@@ -72,9 +61,8 @@ code {
 	<a href="#books" >참고문헌</a>
 <br>
 <button class="button1" style="margin-right:10px">원문주석</button>
-  	<button class="button2">본문검색<=</button>
+  	<button class="button2">검 색 :</button>
    	<input type="text" id="chaja" value="?" style="width:60px" />
-  	<button class="button3">=>단어검색</button>
   	
 
 <h3>제1장 삼매품(samādhi)</h3>
