@@ -24,9 +24,11 @@ $(document).ready(function(){
      $('div:contains("'+ dd +'")').each(function(){
           var regex=new RegExp(dd,'gi');
    $(this).html($(this).html().replace(regex,"<code>" + dd + "</code>"))
-   
     })
-    })
+    });
+      $(".button3").click(function(){
+      window.location.reload(true);
+     })
   });
 
 </script>
@@ -59,6 +61,8 @@ code {
 <button class="button1" style="margin-right:20px">원문주석</button>
   	<button class="button2">검 색 :</button>
    	<input type="text" id="chaja" value="?" style="width:60px" />
+   	<button class="button3" >값지우기</button>
+    
   	
 
 <h3>제1장 삼매품(samādhi)</h3>
