@@ -21,7 +21,7 @@ $(document).ready(function(){
     $(".button2").click(function(){
     var  dd=$("#chaja").val();
       $("div").not('div :contains("'+ dd +'")').hide();  
-     $('div :contains("'+ dd +'"l)').each(function(){
+     $('div :contains("'+ dd +'")').each(function(){
           var regex=new RegExp(dd,'gi');
    $(this).html($(this).html().replace(regex,"<code>" + dd + "</code>"))
     })
