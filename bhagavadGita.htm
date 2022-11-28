@@ -11,25 +11,25 @@
 <script type="text/javascript">
 $(document).ready(function(){
     $("div").click(function(){
-    $(this.children[1]).toggle():
-    }):
+    $(this.children[1]).toggle();
+    });
 
     $(".button1").click(function(){
-    $("pre").toggle():
-    }):
+    $("pre").toggle();
+    });
     
     $(".button2").click(function(){
-    var  dd=$("#chaja").val():
-      $("div").not('div:contains("'+ dd +'")').hide():  
+    var  dd=$("#chaja").val();
+      $("div").not('div:contains("'+ dd +'")').hide();  
      $('div:contains("'+ dd +'")').each(function(){
-          var regex=new ṛegExp(dd,'gi'):
+          var regex=new RegExp(dd,'gi');
    $(this).html($(this).html().replace(regex,"<code>" + dd + "</code>"))
     })
-    }):
+    });
       $(".button3").click(function(){
-      window.location.reload(true):
+      window.location.reload(true);
      })
-  }):
+  });
 
 </script>
 <style>
