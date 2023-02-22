@@ -1037,8 +1037,8 @@ hna :'그렇지 않을 경우는 (마음)작용과 같은 모습이다.',
 ['2-28 팔단계 식별:',
 '요가 단계들 실행으로 불순함이 없어지고 지혜의 빛이 나오는 식별지에 도달한다.',
 'योगाङ्गानुष्ठानादशुद्धिक्षये ज्ञानदीप्तिराविवेकख्यातेः ॥२८॥',
-"yoga-anga-anuṣṭhānād-aśuddhi-kṣaye jñāna-
-dīptir-āviveka-khyāteḥ॥28॥",
+'yoga-anga-anuṣṭhānād-aśuddhi-kṣaye jñāna-
+dīptir-āviveka-khyāteḥ ॥28॥',
 
 'yoga : 요가',
 'anga : 단계, 가지',
@@ -1054,7 +1054,7 @@ dīptir-āviveka-khyāteḥ॥28॥",
 ['2-29 팔단계:',
 '금계 권계 좌법 조식 제감 응념 선정 삼매 등 여덟 단계이다.',
 'यम नियमाअसन प्राणायाम प्रत्याहार धारणा ध्यान समाधयोऽष्टावङ्गानि ॥२९॥',
-'yama-niyama-āsana-prāṇāyāma-pratyāhāra-dhāraṇā dhyāna-samādhayo-'ṣṭāvangāni ॥29॥',
+"yama-niyama-āsana-prāṇāyāma-pratyāhāra-dhāraṇā dhyāna-samādhayo-'ṣṭāvangāni ॥29॥",
  
 'yama : 금계, 금지계 * 타자와의 관계에서 지켜야할 계율',
 'niyama : 권계, 권고계 * 자신안에서  지켜야할 실천덕목',
