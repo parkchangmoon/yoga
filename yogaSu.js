@@ -1,4 +1,4 @@
-const yogaSu = 
+const yoga = 
 [
 '봄',
 '여름',
