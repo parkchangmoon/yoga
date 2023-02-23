@@ -4,7 +4,6 @@ const yogaSutra = [
  '지금 요가 공 부!',
 "अथ योगानुशासनम् ॥१॥",
 'atha yoga-anuśāsanam ॥1॥',
-
 'atha :지금, 이제',
 'yoga :요가',
 'anu :(접두사) ~따라서, ~뒤에',
@@ -16,7 +15,6 @@ const yogaSutra = [
 '요가는 마음작용을 제어하는 것이다.',
 'योगश्चित्तवृत्तिनिरोधः ॥२॥',
 "yogaś citta-vṛtti-nirodhaḥ ॥2॥",
-
 'yoga : (~s, 남성 단수 주격) 요가',
 'citta :  마음, 의식',
 'vṛtti : 작용, 활동',
