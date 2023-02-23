@@ -6,7 +6,7 @@ const yoga3 =
 '겨울',
 ]
 
-const yogaSutra = [
+const yogaSu = [
 
 ['ys 1-1 공부선언',
  '지금 요가 공 부!',
