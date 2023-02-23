@@ -2635,8 +2635,9 @@ siddhi : (~ayah, 여성 복수 주격) 초능력, 성취',
 'śakti : (~r, 여성 단수 주격) 능력, 힘',
 'iti : ~라고. 이상.',
 ]
-
+*/
 ]
+/*
 // 참고문헌(클릭!)
 const yogaSutraBooks = [
 
@@ -2656,7 +2657,7 @@ const yogaSutraBooks = [
 
 'Jayadeva Yogendra, Yoga Sutra of Patanjali, Zen Publications, 2009',
 
-'윤홍식, <요가수트라 강의> pdf파일. 인터넷 공개자료. 여기에는 요가경 전체 번역과 간단한 설명이 첨부되어 있음', 
-
+'윤홍식, <요가수트라 강의> pdf파일. 인터넷 공개자료. 여기에는 요가경 전체 번역과 간단한 설명이 첨부되어 있음',
 */
+
 ]
