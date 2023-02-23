@@ -1,4 +1,4 @@
-const yogaSutra = 
+const yogaSu = 
 ['봄',
 '여름',
 '가을',
