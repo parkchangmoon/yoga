@@ -29,7 +29,7 @@ const yogaSutra = [
 'svarūpa : (~e, 중성 단수 처격) 자기 몸, 자성, 본성, 있는 그대로 모습',
 'avasthāna : (~m, 중성 단수 주격) 드러남, 머뭄, 안주',
 ];
-
+/*
 [ 'ys 1-4 마음작용:',
 '그렇지 않을 경우는 (마음)작용과 같은 모습이다.',
  'वृत्ति सारूप्यमितरत्र ॥४॥',
@@ -2656,5 +2656,5 @@ const yogaSutraBooks = [
 'Jayadeva Yogendra, Yoga Sutra of Patanjali, Zen Publications, 2009',
 
 '윤홍식, <요가수트라 강의> pdf파일. 인터넷 공개자료. 여기에는 요가경 전체 번역과 간단한 설명이 첨부되어 있음',
-
+*/
 ];
