@@ -4,7 +4,7 @@ const yoga3 =
 '여름',
 '가을',
 '겨울',
-]
+];
 
 const yoga4 = [
 
