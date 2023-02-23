@@ -1,5 +1,4 @@
-const yoga3 = 
-[
+const yoga3 = [
 '봄',
 '여름',
 '가을',
