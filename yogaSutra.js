@@ -1,6 +1,4 @@
-const yogaSutra1 =[1,2,3,4,5];
 
-/*
 const yogaSutra = [
 ['ys 1-1 공부선언',
 '지금 요가 공 부!',
@@ -16,7 +14,7 @@ const yogaSutra = [
  '요가는 마음작용을 제어하는 것이다.',
  'योगश्चित्तवृत्तिनिरोधः ॥२॥',
  "yogaś citta-vṛtti-nirodhaḥ ॥2॥",
- 'yoga : (~s, 남성 단수 주격) 요가',8
+ 'yoga : (~s, 남성 단수 주격) 요가',
  'citta :  마음, 의식',
  'vṛtti : 작용, 활동',
  'nirodha : (~h, 중성 단수 주격) 제어, 억제, 없앰'
