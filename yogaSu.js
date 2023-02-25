@@ -4,4 +4,4 @@ const yoga3 = [
 [4,5,6]
 ];
 
-const yoga4 = [8,9,10,11];
+const yoga4 = [7,8,9,10,11];
