@@ -1,6 +1,6 @@
 const yon = [1,2,3,4,5];
 
-
+/*
 const yogaSutra = [
 ['ys 1-1 공부선언',
 '지금 요가 공 부!',
