@@ -1,4 +1,4 @@
-const yon =[1,2,3,4,5];
+const yon = [1,2,3,4,5];
 
 
 const yogaSutra = [
