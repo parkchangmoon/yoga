@@ -60,7 +60,12 @@ p {
 		document.write("안녕하세요", "<br>", "안녕히")
 		*/
 
-document.write(yogaSutra.length);
+document.write("요가 경문은" + yogaSutra.length +"개 입니다" +"<br>");
+for (let i in yogaSutra) {
+	let y ="";
+	y+="<br>" +yogaSutra[i][0] + ": " + yogaSutra[i][1];
+	document.getElementById("sutra").innerHTML+= y;
+};
 		
 // JS 자료 가져오기
   function bgvdFunction() {
