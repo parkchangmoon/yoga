@@ -171,10 +171,12 @@ function chaja0Function() {
 // 입력단어순
 	function oriwordFunction() {
 		for (let i in yogaSutra) {
-			let cc= "<br>" + "요가경 " + yogaSutra[i][0] + "<br>";
 			
-			document.getElementById("words").innerHTML += cc;
-			for (let j =4; j<yogaSutra[i].length; j++) {
+			let cc= "요가경" + yogaSutra[i][0];
+		//let cc = "<br>" + "요가경 " + yogaSutra[i][0] + "<br>";
+			
+			// document.getElementById("words").innerHTML += cc;
+			for (let j = 4; j<yogaSutra[i].length; j++) {
 				document.getElementById("words").innerHTML += yogaSutra[i][j] + "<br>";
 }}};
 
@@ -184,8 +186,8 @@ function chaja0Function() {
 		let tt="";
 		let tt1="";
 		for (let i in yogaSutra) {
-				for (let j in yogaSutra[i].word) {
-				tt += yogaSutra[i].word[j] + "  " + yogaSutra[i].loke + "&";
+				for (let j =4; j<yogaSutra[i].length; j++) {
+				tt += yogaSutra[i][j] + "  " + yogaSutra[i][0] + "&";
 				}
 				}
 					var newBgvd =tt.split("&");
