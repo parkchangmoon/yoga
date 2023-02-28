@@ -77,9 +77,9 @@ document.write("요가 경문은" + yogaSutra.length +"개 입니다" +"<br>");
 let x = "";
 
 for (let i in yogaSutra) {				
-			
+			let kk= yogaSutra[i][0]('ys', '요가경');
   x += "<div>"
-+ "<h3>" + yogaSutra[i][0] + "</h3>" 
++ "<h3>" + kk + "</h3>" 
 + "<h4 class='hani'>" + yogaSutra[i][1] + "</h4>"
 + "<p class='devi'>" + yogaSutra[i][2] + "</p>"
 + "<p class='romi'>" + yogaSutra[i][3] + "</p>"
