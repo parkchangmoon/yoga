@@ -100,10 +100,6 @@ x += "<p class= 'wordi' >" + yogaSutra[i][j] + "<br>";
 				});
 		 };
 	
-
-
-
-
 		
 // JS 자료 가져오기
   function bgvdFunction() {
@@ -118,16 +114,16 @@ x += "<p class= 'wordi' >" + yogaSutra[i][j] + "<br>";
 
 let x = "";
 
-for (let i in bhaga) {				
+for (let i in yogaSutra) {				
 			
   x += "<div>"
-+ "<h3>" + bhaga[i].loke + "</h3>" 
-+ "<h4 class='hani'>" + bhaga[i].han + "</h4>"
-+ "<p class='romi'>" + bhaga[i].roma + "</p>"
++ "<h3>" + yogaSutra[i].loke + "</h3>" 
++ "<h4 class='hani'>" + yogaSutra[i].han + "</h4>"
++ "<p class='romi'>" + yogaSutra[i].roma + "</p>"
 + "<p class= 'wordi' >" ;
 
-		for (let j in bhaga[i].word) {
-				x += bhaga[i].word[j] +"<br>";
+		for (let j in yogaSutra[i].word) {
+				x += yogaSutra[i].word[j] +"<br>";
 
 		}
 		x += "</p>"
@@ -148,16 +144,14 @@ for (let i in bhaga) {
 
 function chajaFunction(chaja){
 						
-	for (let i in bhaga) {
+	for (let i in yogaSutra) {
 				
-				let kk= bhaga[i].loke.replace('bg', '바가바드');
-				
-			// let kk =bhaga[i].loke;
-			
-			for (let j in bhaga[i].word) {
+				let kk= yogaSutra[i][0].replace('ys', '요가경');
+							
+				for (let j =4; j<yogaSutra[i].length; j++) {
 	  	
-	  if (bhaga[i].word[j].includes(chaja)){
-		let gg=bhaga[i].word[j];
+	  if (yogaSutra[i][j].includes(chaja)){
+		let gg=yogaSutra[i][j];
 		let gg1=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
 
 		document.write(kk + "::" + gg1 + "<br><br>");
@@ -176,12 +170,12 @@ function chaja0Function() {
 			
 // 입력단어순
 	function oriwordFunction() {
-		for (let i in bhaga) {
-			let cc= "<br>" + "바가바드 기따 " + bhaga[i].loke + "<br>";
+		for (let i in yogaSutra) {
+			let cc= "<br>" + "바가바드 기따 " + yogaSutra[i].loke + "<br>";
 			
 			document.getElementById("words").innerHTML += cc;
-			for (let j in bhaga[i].word) {
-				document.getElementById("words").innerHTML += bhaga[i].word[j] + "<br>";
+			for (let j in yogaSutra[i].word) {
+				document.getElementById("words").innerHTML += yogaSutra[i].word[j] + "<br>";
 }}};
 
 
@@ -189,9 +183,9 @@ function chaja0Function() {
 	function srtwordFunction() {
 		let tt="";
 		let tt1="";
-		for (let i in bhaga) {
-				for (let j in bhaga[i].word) {
-				tt += bhaga[i].word[j] + "  " + bhaga[i].loke + "&";
+		for (let i in yogaSutra) {
+				for (let j in yogaSutra[i].word) {
+				tt += yogaSutra[i].word[j] + "  " + yogaSutra[i].loke + "&";
 				}
 				}
 					var newBgvd =tt.split("&");
@@ -206,9 +200,9 @@ function chaja0Function() {
 			let onedic = ""
 			let dict = "";
 			
-			 for (let i in bhaga) {
-					for (let j in bhaga[i].word) {
-	  alldic += bhaga[i].word[j] + "  ";
+			 for (let i in yogaSutra) {
+					for (let j in yogaSutra[i].word) {
+	  alldic += yogaSutra[i].word[j] + "  ";
 }}
 
 alldic = alldic.split("  ");
