@@ -61,12 +61,50 @@ p {
 		*/
 
 document.write("요가 경문은" + yogaSutra.length +"개 입니다" +"<br>");
-for (let i in yogaSutra) {
-	let y ="";
-	y+="<br>" +yogaSutra[i][0] + ": " + yogaSutra[i][1];
-	document.write(y);
-	// document.getElementById("sutra").innerHTML+= y;
-};
+
+
+// YS 자료 가져오기
+  function ysFunction() {
+  	
+  	//아래는 head에 있는 것 붙여놓음
+  $(document).ready(function(){
+		    $("div").click(function(){
+            	 $(this).children("p").toggle();
+  });
+});
+      //여기까지는 붙여놓은 것 끝
+
+let x = "";
+
+for (let i in yogaSutra) {				
+			
+  x += "<div>"
++ "<h3>" + yogaSutra[i][0] + "</h3>" 
++ "<h4 class='hani'>" + yogaSutra[i][1] + "</h4>"
++ "<p class='devi'>" + yogaSutra[i][2] + "</p>"
++ "<p class='romi'>" + yogaSutra[i][3] + "</p>"
+
+for (let j =4; j<yogaSutra[i].length; j++) {
+x += "<p class= 'wordi' >" + yogaSutra[i][j] + "<br>";
+
+		}
+		x += "</p>"
+		+ "</div>";
+		}
+		
+			document.getElementById("sutra").innerHTML= x;
+			
+			$(".devi, .romi, .wordi").css("color", "blue");
+									
+			$(document).ready(function(){
+				$("div").children("p").hide();
+				});
+		 };
+	
+
+
+
+
 		
 // JS 자료 가져오기
   function bgvdFunction() {
