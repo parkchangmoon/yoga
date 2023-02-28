@@ -140,7 +140,7 @@ for (let i in yogaSutra) {
 		 };
 	
 
-// 찾아 원 펑션
+// 찾아  원 펑션
 
 function chajaFunction(chaja){
 						
@@ -197,6 +197,7 @@ function chaja0Function() {
 			let onedic = ""
 			let dict = "";
 			
+
 			 for (let i in yogaSutra) {
 					for (let j =4; j < yogaSutra[i].length; j++) {
 	  alldic += yogaSutra[i][j] + "  ";
@@ -216,6 +217,7 @@ data += alldic[k]+ ",";
 			dict += "<p>" + value + "</p>";
 	})
 
+
 document.getElementById("words").innerHTML= 
  dict;
 
@@ -223,7 +225,10 @@ document.getElementById("words").innerHTML=
      			let chaja= $(this).text();       	
  				chajaFunction(chaja);
 });
+
+
 };
+
 
 
 function newFunction() {
