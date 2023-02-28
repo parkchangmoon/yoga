@@ -203,7 +203,10 @@ function chaja0Function() {
 	  alldic += yogaSutra[i][j] + "  ";
 }}
 
-alldic = alldic.split("  ");
+document.write(alldic.length + "<br>");
+ alldic = alldic.split(":");
+ // alldic = alldic.split("  ");
+
 for (let k in alldic) {
 if (alldic[k].includes(":")==false) {  
 data += alldic[k]+ ",";
