@@ -214,22 +214,44 @@ function dicFunction(){
       	let onedic1 ="";
     	let alldic ="";
 			let alldic1 ="";
+      let tt="";
+
+
 		
 for (let i in yogaSutra) {
 	for (let j=5;j<yogaSutra[i].length;j++) {
-	 alldic1 += yogaSutra[i][j]+ "#";
-}
+ alldic1 += yogaSutra[i][j]+ "#";
+
+	  
+	}
   alldic = alldic1.split("#");
    }
-   
+  
+  
+   for (let i of alldic) {
+tt = i.indexOf(":");
+onedic+= i.slice(0, tt) + " ";
+    
+}
+/*
 for (let i in alldic) {
 if (alldic[i].includes(":")==false) {  
  onedic += alldic[i] + "#";
 }
 }
-
 onedic = onedic.split("#");
-onedic.sort();
+*/
+
+
+ let onedic2= onedic.join(" ");
+ // onedic2.sort();
+
+document.write(onedic2);
+};
+/*
+
+
+
 onedic1 = new Set(onedic);
 
 let dict = "<div>";
@@ -246,7 +268,7 @@ document.getElementById("words").innerHTML = dict;
 
 };
 
-
+*/
 
 function newFunction() {
 			history.go(0);
