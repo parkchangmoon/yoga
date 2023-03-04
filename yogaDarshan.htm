@@ -57,7 +57,8 @@ p {
 <br>
 	
 	<script>
-		/*
+	
+			/*
 		let yy="한라산에 눈이 내립니다, <br> 한라선에 눈이";
 		document.write(`"${yy}"<br>"${yy}"`);
 		document.write("안녕하세요", "<br>", "안녕히")
@@ -82,12 +83,13 @@ let x = "";
 for (let i in yogaSutra) {				
 	   let kk= yogaSutra[i][0].replace('ys', '요가경');
   x += "<div>"
-+ "<h4 class='loke'>" + kk + "</h4>" 
++ "<h4 class='loke' >" + kk + "</h4>" 
 + "<h4 class='hani'>" + yogaSutra[i][1] + "</h4>"
 + "<p class='devi'>" + yogaSutra[i][2] + "</p>"
 + "<p class='romi'>" + yogaSutra[i][3] + "</p>"
++ "<p class='desc'>" + yogaSutra[i][4] + "</p>"
 
-for (let j =4; j<yogaSutra[i].length; j++) {
+for (let j =5; j<yogaSutra[i].length; j++) {
 x += "<p class= 'wordi' >" + yogaSutra[i][j] + "<br>";
 		}
 		x += "</p>"
@@ -96,7 +98,7 @@ x += "<p class= 'wordi' >" + yogaSutra[i][j] + "<br>";
 		
 			document.getElementById("sutra").innerHTML= x;
 			
-			$(".loke, .devi, .romi, .wordi").css("color", "blue");
+			$(".loke, .devi, .romi, .desc, .wordi").css("color", "blue");
 									
 			$(document).ready(function(){
 				$("div").children("p").hide();
@@ -120,9 +122,9 @@ let x = "";
 for (let i in yogaSutra) {				
 			
   x += "<div>"
-+ "<h3>" + yogaSutra[i].loke + "</h3>" 
-+ "<h4 class='hani'>" + yogaSutra[i].han + "</h4>"
-+ "<p class='romi'>" + yogaSutra[i].roma + "</p>"
++ "<h3>" + yogaSutra[i][0] + "</h3>" 
++ "<h4 class='hani'>" + yogaSutra[i][1] + "</h4>"
++ "<p class='romi'>" + yogaSutra[i][2] + "</p>"
 + "<p class= 'wordi' >" ;
 
 		for (let j in yogaSutra[i].word) {
@@ -135,7 +137,7 @@ for (let i in yogaSutra) {
 		
 			document.getElementById("sutra").innerHTML= x;
 			
-			$(".romi, .wordi").css("color", "blue");
+			$(".romi, .desc, .wordi").css("color", "blue");
 									
 			$(document).ready(function(){
 				$("div").children("p").hide();
@@ -151,7 +153,7 @@ function chajaFunction(chaja){
 				
 				let kk= yogaSutra[i][0].replace('ys', '요가경');
 							
-				for (let j =4; j<yogaSutra[i].length; j++) {
+				for (let j =5; j<yogaSutra[i].length; j++) {
 	  	
 	  if (yogaSutra[i][j].includes(chaja)){
 		let gg=yogaSutra[i][j];
@@ -174,7 +176,7 @@ function chaja0Function() {
 // 입력 단어순
 	function oriwordFunction() {
 		for (let i in yogaSutra) {
-						for (let j = 4; j<yogaSutra[i].length; j++) {
+						for (let j = 5; j<yogaSutra[i].length; j++) {
 				document.write(yogaSutra[i][0] + " :" + yogaSutra[i][j] + "<br>");
 }}};
 
@@ -184,15 +186,28 @@ function chaja0Function() {
 		let tt="";
 		let tt1="";
 		for (let i in yogaSutra) {
-				for (let j =4; j<yogaSutra[i].length; j++) {
+				for (let j =5; j<yogaSutra[i].length; j++) {
 				tt += yogaSutra[i][j] + "  " + yogaSutra[i][0] + "&";
 				}
 				}
 					var newBgvd =tt.split("&");
 				document.getElementById("words").innerHTML  = newBgvd.sort().join("<br>");
 };
+//자료 추출 연습
+/*
+const yon =['abcd:알v파벳', 'cdefg:뭐라고', 'evergreen:항상 푸른, 나무'];
+let tt="";
+let nyon="";
+let data ="";
+let sorce=yon;
 
-
+for (let i of sorce) {
+tt = i.indexOf(":");
+nyon+= i.slice(0, tt) + "<br>";
+    
+}
+document.getElementById("words").innerHTML=nyon;
+*/
 // 싼스  사전
 function dicFunction(){ 
       	let onedic = "";
@@ -201,7 +216,7 @@ function dicFunction(){
 			let alldic1 ="";
 		
 for (let i in yogaSutra) {
-	for (let j=4;j<yogaSutra[i].length;j++) {
+	for (let j=5;j<yogaSutra[i].length;j++) {
 	 alldic1 += yogaSutra[i][j]+ "#";
 }
   alldic = alldic1.split("#");
