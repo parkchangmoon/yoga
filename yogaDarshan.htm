@@ -36,7 +36,7 @@ p {
 	
 <button type='button' onclick='ysFunction()'>요가경</button>
 	
-	<button type='button' onclick='bgvdFunction()'>바가바드</button>
+<button type='button' onclick='bgvdFunction()'>바가바드</button>
 	
 <button type='button' onclick='skFunction()'>싸앙키야</button>
 
@@ -57,15 +57,12 @@ p {
 <br>
 	
 	<script>
-	
 			/*
 		let yy="한라산에 눈이 내립니다, <br> 한라선에 눈이";
 		document.write(`"${yy}"<br>"${yy}"`);
 		document.write("안녕하세요", "<br>", "안녕히")
 		*/
-
 document.write("요가 경문은" + yogaSutra.length +"개 입니다" +"<br>");
-
 
 // YS 자료 가져오기
   function ysFunction() {
@@ -76,7 +73,7 @@ document.write("요가 경문은" + yogaSutra.length +"개 입니다" +"<br>");
             	 $(this).children("p").toggle();
   });
 });
-      //여기까지는 붙여놓은 것 끝
+      //여기까지 붙여놓은 것 끝
 
 let x = "";
 
@@ -108,8 +105,7 @@ x += "<p class= 'wordi' >" + yogaSutra[i][j] + "<br>";
 		
 // JS 자료 가져오기
   function bgvdFunction() {
-  	
-  	//아래는 head에 있는 것 붙여놓음
+    	//아래는 head에 있는 것 붙여놓음
   $(document).ready(function(){
 		    $("div").click(function(){
             	 $(this).children("p").toggle();
@@ -118,7 +114,6 @@ x += "<p class= 'wordi' >" + yogaSutra[i][j] + "<br>";
       //여기까지는 붙여놓은 것 끝
 
 let x = "";
-
 for (let i in yogaSutra) {				
 			
   x += "<div>"
@@ -143,10 +138,9 @@ for (let i in yogaSutra) {
 				$("div").children("p").hide();
 				});
 		 };
-	
+
 
 // 찾아  원 펑션
-
 function chajaFunction(chaja){
 						
 	for (let i in yogaSutra) {
@@ -172,7 +166,7 @@ function chaja0Function() {
 		chajaFunction(chaja);
 		};
 
-			
+
 // 입력 단어순
 	function oriwordFunction() {
 		for (let i in yogaSutra) {
@@ -193,21 +187,8 @@ function chaja0Function() {
 					var newBgvd =tt.split("&");
 				document.getElementById("words").innerHTML  = newBgvd.sort().join("<br>");
 };
-//자료 추출 연습
-/*
-const yon =['abcd:알v파벳', 'cdefg:뭐라고', 'evergreen:항상 푸른, 나무'];
-let tt="";
-let nyon="";
-let data ="";
-let sorce=yon;
 
-for (let i of sorce) {
-tt = i.indexOf(":");
-nyon+= i.slice(0, tt) + "<br>";
-    
-}
-document.getElementById("words").innerHTML=nyon;
-*/
+
 // 싼스  사전
 function dicFunction(){ 
       	let onedic = "";
@@ -250,11 +231,8 @@ function newFunction() {
 			history.go(0);
 			// location.reload();
 			};
-				
 	
 	
-	
-
-	</script>
+		</script>
 	</body>
 </html>
