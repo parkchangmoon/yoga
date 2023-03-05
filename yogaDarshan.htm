@@ -95,8 +95,9 @@ x += "<p class= 'wordi' >" + yogaSutra[i][j] + "<br>";
 		
 			document.getElementById("sutra").innerHTML= x;
 			
-			$(".loke, .devi, .romi, .desc, .wordi").css("color", "blue");
-									
+			$(".loke, .desc, .wordi").css("color", "blue");
+			$(".devi, .romi").css("color", "violet");
+			
 			$(document).ready(function(){
 				$("div").children("p").hide();
 				});
