@@ -142,12 +142,9 @@ for (let i in yogaSutra) {
 
 // 찾아  원 펑션
 function chajaFunction(chaja){
-						
-	for (let i in yogaSutra) {
-				
-				let kk= yogaSutra[i][0].replace('ys', '요가경');
-							
-				for (let j =5; j<yogaSutra[i].length; j++) {
+			for (let i in yogaSutra) {
+					let kk= yogaSutra[i][0].replace('ys', '요가경');
+				  for (let j =5; j<yogaSutra[i].length; j++) {
 	  	
 	  if (yogaSutra[i][j].includes(chaja)){
 		let gg=yogaSutra[i][j];
