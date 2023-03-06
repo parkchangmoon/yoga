@@ -43,7 +43,11 @@ p {
   <br><br>
 <label>경전 검색 :</label>
 	<input id='name' value='?' style='width:80px'/>
-	<button type='button' onclick='chaja0Function()'>모두찾아</button>
+	<button type='button' onclick='chajawFunction()'>단어찾아</button>
+	<button type='button' onclick='chajahFunction()'>한글찾아</button>
+  <button type='button' onclick='chajaoFunction()'>원문찾아</button>
+		
+	
 	<br>
 	<br>
 		<button type='button' onclick='oriwordFunction()'>입력단어순</button>
@@ -161,7 +165,7 @@ function chajaFunction(chaja){
 
 
 //모두 찾아
-function chaja0Function() {
+function chajawFunction() {
 		const chaja=document.getElementById('name').value;
 		chajaFunction(chaja);
 		};
