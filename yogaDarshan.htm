@@ -145,8 +145,9 @@ for (let i in yogaSutra) {
 		 };
 
 
-// 찾아  원 펑션
-function chajaFunction(chaja){
+// 단어 찾아
+function chajawFunction(){
+			const chaja=document.getElementById('name').value;
 			for (let i in yogaSutra) {
 					 let kk=yogaSutra[i][0].slice(0,6);
 	         kk= kk.replace('ys', '요가경');
@@ -164,21 +165,37 @@ function chajaFunction(chaja){
 	}};
 
 
-//단어 찾아
-function chajawFunction() {
-		const chaja=document.getElementById('name').value;
-		chajaFunction(chaja);
-		};
 //한글 찾아		
 function chajahFunction() {
 		const chaja=document.getElementById('name').value;
-		chajaFunction(chaja);
-		};
+			for (let i in yogaSutra) {
+					 let kk=yogaSutra[i][0].slice(0,6);
+	         kk= kk.replace('ys', '요가경');
+	 
+		if (yogaSutra[i][1].includes(chaja)){
+		let gg=yogaSutra[i][1];
+		let gg1=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
+
+		document.write(kk + "::" + gg1 + "<br><br>");
+		}}
+	};
+		
+		
 // 원문 찾아
 function chajaoFunction() {
 		const chaja=document.getElementById('name').value;
-		chajaFunction(chaja);
-		};
+			for (let i in yogaSutra) {
+					 let kk=yogaSutra[i][0].slice(0,6);
+	         kk= kk.replace('ys', '요가경');
+	 
+		if (yogaSutra[i][4].includes(chaja)){
+		let gg=yogaSutra[i][4];
+		let gg1=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
+
+		document.write(kk + "::" + gg1 + "<br><br>");
+		
+		}}
+	};
 
 
 // 입력 단어순
