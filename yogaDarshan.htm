@@ -78,9 +78,10 @@ document.write("요가 경문은" + yogaSutra.length +"개 입니다" +"<br>");
 let x = "";
 
 for (let i in yogaSutra) {				
-	   let kk=yogaSutra[i][0].slice(0,6);
-	   kk= yogaSutra[i][0].replace('ys', '요가경');
-  x += "<div>"
+	 kk= yogaSutra[i][0].replace('ys', '요가경');
+    // let kk=yogaSutra[i][0].slice(0,6);
+	  //kk= kk.replace('ys', '요가경');
+	 x += "<div>"
 + "<h4 class='loke' >" + kk + "</h4>" 
 + "<h4 class='hani'>" + yogaSutra[i][1] + "</h4>"
 + "<p class='desc'>" + yogaSutra[i][2] + "</p>"
@@ -145,7 +146,9 @@ for (let i in yogaSutra) {
 // 찾아  원 펑션
 function chajaFunction(chaja){
 			for (let i in yogaSutra) {
-					let kk= yogaSutra[i][0].replace('ys', '요가경');
+					 let kk=yogaSutra[i][0].slice(0,6);
+	         kk= kk.replace('ys', '요가경');
+	 
 				  for (let j =5; j<yogaSutra[i].length; j++) {
 	  	
 	  if (yogaSutra[i][j].includes(chaja)){
