@@ -710,7 +710,7 @@ const yogaSutra = [
 'api: ~도',
 'nirodha: (~e, 남성 단수 처격) 멈춤, 없앰, 제어',
 'sarva: 모든',
-'nirodha=: (~ān:~āt, 남성 단수 종격) 제어, 억제, 앖앰',
+'nirodha=: (~ān:~āt, 남성 단수 종격)',
 'nirbījaḥ: (~h, 남성 단수 주격)씨없는, 무종',
 'samādhi: (~h, 남성 단수 주격) 삼매',
 ],
