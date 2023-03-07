@@ -178,7 +178,7 @@ function chajahFunction() {
 		}}
 	};
 	
-// 원문 찾아
+// 원문찾아
 function chajaoFunction() {
 		const chaja=document.getElementById('name').value;
 			for (let i in yogaSutra) {
@@ -199,8 +199,9 @@ function chajaoFunction() {
 		let tt="";
 		let tt1="";
 		for (let i in yogaSutra) {
-				for (let j =5; j<yogaSutra[i].length; j++) {
-				tt += yogaSutra[i][j] + "  " + yogaSutra[i][0] + "&";
+		    	 let kk=yogaSutra[i][0].slice(0,6);
+		    	for (let j =5; j<yogaSutra[i].length; j++) {
+				tt += yogaSutra[i][j] + "  " + kk + "&";
 				}
 				}
 					var newBgvd =tt.split("&");
