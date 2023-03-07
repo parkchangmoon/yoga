@@ -126,7 +126,24 @@ for (let i in yogaSutra) {
 				$("div").children("p").hide();
 				});
 		 };
+		 
+//  원찾아 펑션
+function chajaFunction(chaja){
+			for (let i in yogaSutra) {
+					 let kk=yogaSutra[i][0].slice(0,6);
+	         kk= kk.replace('ys', '요가경');
+	 
+				  for (let j =5; j<yogaSutra[i].length; j++) {
+	  	
+	  if (yogaSutra[i][j].includes(chaja)){
+		let gg=yogaSutra[i][j];
+		let gg1=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
 
+		document.write(kk + "::" + gg1 + "<br><br>");
+		
+		// document.getElementById("words").innerHTML+= kk + "::" + gg1 + "<br>";
+  }}
+	}};
 // 단어 찾아
 function chajawFunction(){
 			const chaja=document.getElementById('name').value;
@@ -222,8 +239,8 @@ for (let x of onedic1) {
 document.getElementById("words").innerHTML = dic;
 
  $("p").click(function(){
-     			let chaja= $(this).text();       	
- 				chajawFunction(chaja);
+     			const chaja= $(this).text();       	
+ 				chajaFunction(chaja);
 });
 };
 
