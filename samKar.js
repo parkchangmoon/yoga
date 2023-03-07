@@ -216,219 +216,217 @@ const samkar =[
 
 ],
 [
-'11 드러난 것의 성질:
-드러난 것은 세 구나이고, 식별 못하고, 대상이고, 공통되고, 알아차리지(감수) 못하고, 산출법칙을 따른다./ 토대(쁘라다나)는 그와 같다. 뿌만(뿌루샤)은 그와 반대이다.
+'11 드러난 것의 성질:',
+'드러난 것은 세 구나이고, 식별 못하고, 대상이고, 공통되고, 알아차리지(감수) 못하고, 산출법칙을 따른다./ 토대(쁘라다나)는 그와 같다. 뿌만(뿌루샤)은 그와 반대이다.',
 
-triguṇam-aviveki viṣayaḥ sāmānyam-acetanaṃ prasava-dharmi |vyaktaṃ tathā pradhānaṃ tat-viparitaḥ tathā ca pumān ||
+'triguṇam-aviveki viṣayaḥ sāmānyam-acetanaṃ prasava-dharmi |vyaktaṃ tathā pradhānaṃ tat-viparitaḥ tathā ca pumān ||',
 
-triguṇa : 세 구나
-avivekin :(~i, 중성 단수 주격) 식별 못하는
-viṣaya : 대상
-sāmānya : 공통, 똑같음, 비슷
-acetana :  감수(내관) 못하는, 알아차리지 못하는
-prasava : 산출, 낳음
-dharmin : 법칙을 따르는
-
-vyakta : 드러난 것(* 앞의 #10번 경문 참조)
-tathā : 그렇게
-pradhāna : 토대, 제1원인 
-tat : 그
-viparita : 반대 
-tathā :그렇게
-ca :또한
-pumān : 인간, 영혼, 뿌루샤
+'triguṇa : 세 구나',
+'avivekin :(~i, 중성 단수 주격) 식별 못하는',
+'viṣaya : 대상',
+'sāmānya : 공통, 똑같음, 비슷',
+'acetana :  감수(내관) 못하는, 알아차리지 못하는',
+'prasava : 산출, 낳음',
+'dharmin : 법칙을 따르는',
+'vyakta : 드러난 것(* 앞의 #10번 경문 참조)',
+'tathā : 그렇게',
+'pradhāna : 토대, 제1원인 ',
+'tat : 그',
+'viparita : 반대', 
+'tathā :그렇게',
+'ca :또한',
+'pumān : 인간, 영혼, 뿌루샤',
 ],
 [
-'12 드러난 것의 작용, 세 구나:
-즐거움, 괴로움, 멍함(망상)으로 구성된 구나들(속성들)은 또한 광명, 활동, 억제를 위한 것들로/ 서로서로 지배, 의존, 산출, 결합의 작용들을 한다.
+'12 드러난 것의 작용, 세 구나:',
+'즐거움, 괴로움, 멍함(망상)으로 구성된 구나들(속성들)은 또한 광명, 활동, 억제를 위한 것들로/ 서로서로 지배, 의존, 산출, 결합의 작용들을 한다.',
 
-prīti-aprīti-viṣāda-ātmakāḥ prakāśa-pravṛtti-niyamārthāḥ |anyonya-abhibhava-āśraya-janana-mithuna-vṛttayaḥ ca guṇāḥ ||
+'prīti-aprīti-viṣāda-ātmakāḥ prakāśa-pravṛtti-niyamārthāḥ |anyonya-abhibhava-āśraya-janana-mithuna-vṛttayaḥ ca guṇāḥ ||',
 
-prīti : 즐거움
-aprīti : 괴로움, 즐거움없음
-viṣāda : 둔성, 멍함, 망상
-ātmaka : 구성된
-prakāśa : 광명
-pravṛtti : 활동, 일어나는 작용
-niyama : 억제, 권계
-artha : 목적
-anyonya : 서로서로, 상호
-abhibhava : 지배
-āśraya : 의존
-janana : 산출
-mithuna : 결합
-vṛtti : 작용, 
-ca : 또한
-guṇa : 구나, 속성
+'prīti : 즐거움',
+'aprīti : 괴로움, 즐거움없음',
+'viṣāda : 둔성, 멍함, 망상',
+'ātmaka : 구성된',
+'prakāśa : 광명',
+'pravṛtti : 활동, 일어나는 작용',
+'niyama : 억제, 권계',
+'artha : 목적',
+'anyonya : 서로서로, 상호',
+'abhibhava : 지배',
+'āśraya : 의존',
+'janana : 산출',
+'mithuna : 결합',
+'vṛtti : 작용', 
+'ca : 또한',
+'guṇa : 구나, 속성',
 ],
 [
-'13 세 구나:
-순질(싸뜨바)은 가볍고 올라가려 하고(바라고), 동질(라자스)은 또한 흥분하여 움직이려 하고/ 암질(따마스)은 정말이지 무겁게 가라앉으려 한다. 마치 등불(기름, 심지, 불꽃)처럼 목적성을 위해 작동한다.
+'13 세 구나:',
+'순질(싸뜨바)은 가볍고 올라가려 하고(바라고), 동질(라자스)은 또한 흥분하여 움직이려 하고/ 암질(따마스)은 정말이지 무겁게 가라앉으려 한다. 마치 등불(기름, 심지, 불꽃)처럼 목적성을 위해 작동한다.',
 
-sattvaṃ laghu prakāśakam-iṣṭam-upaṣṭambhakaṃ calaṃ ca rajaḥ |guru varaṇakam-eva tamaḥ pradīpavat-ca-arthataḥ vṛttiḥ ||
+'sattvaṃ laghu prakāśakam-iṣṭam-upaṣṭambhakaṃ calaṃ ca rajaḥ |guru varaṇakam-eva tamaḥ pradīpavat-ca-arthataḥ vṛttiḥ ||',
 
-sattva : 싸뜨바, 순질
-laghu : 가벼움
-prakāśaka : 광명(성),드러남, 올라감
-iṣṭa : 바램, 추구
-upaṣṭambhaka : 흥분
-cala : 움직임
-ca : 또한
-rajas : 라자스, 동질
-guru : 무거운
-varaṇaka : 덮인, 들어감
-eva : 정말이지
-tamas : 따마스, 암질
-pradīpavat : 등불처럼
-ca : 또한
-arthatas : 목적성, 목적을 위함
-vṛtti : 작용
+'sattva : 싸뜨바, 순질',
+'laghu : 가벼움',
+'prakāśaka : 광명(성),드러남, 올라감',
+'iṣṭa : 바램, 추구',
+'upaṣṭambhaka : 흥분',
+'cala : 움직임',
+'ca : 또한',
+'rajas : 라자스, 동질',
+'guru : 무거운',
+'varaṇaka : 덮인, 들어감',
+'eva : 정말이지',
+'tamas : 따마스, 암질',
+'pradīpavat : 등불처럼',
+'ca : 또한',
+'arthatas : 목적성, 목적을 위함',
+'vṛtti : 작용',
 ],
 [
-'14 드러나지 않은 것(쁘라끄리띠):
-식별 못하는 것* 등(드러난 것과 드러나지 않은 것)은, 세 구나로 된 것 때문에, 그(것의) 전도된(잘못된) 인식이 없기 때문에 증명된다./ 드러나지 않은 것*도 결과가 원인의 속성(구나)으로 구성되기 때문에 증명된다.
+'14 드러나지 않은 것(쁘라끄리띠):',
+'식별 못하는 것* 등(드러난 것과 드러나지 않은 것)은, 세 구나로 된 것 때문에, 그(것의) 전도된(잘못된) 인식이 없기 때문에 증명된다./ 드러나지 않은 것*도 결과가 원인의 속성(구나)으로 구성되기 때문에 증명된다.',
 
-avivekyādeḥ siddhiḥ tri-guṇyāt-tat-viparyaya-abhāvāt |kāraṇa-guṇa-ātmakatvāt-kāryasya-avyaktam-api siddham ||
+'avivekyādeḥ siddhiḥ tri-guṇyāt-tat-viparyaya-abhāvāt |kāraṇa-guṇa-ātmakatvāt-kāryasya-avyaktam-api siddham ||',
 
-avivekin : 식별못하는 것 (*경문#11 참조)
-ādi : 등
-siddhi : 증명, 성취
-tri :셋
-guṇya : 다수가 된
-tat : 그
-viparyaya : 전도된 인식
-abhāva : 부재
-kāraṇa : 원인 
-guṇa : 구나, 속성
-ātmakatvāt : 구성된 것처럼
-kārya :만들어진, 일어난, 결과
-avyakta : 드러나지 않은 것(*경문 #2참조)
-api : ~도
-siddha : 증명, 성취
+'avivekin : 식별못하는 것 (*경문#11 참조)',
+'ādi : 등',
+'siddhi : 증명, 성취',
+'tri :셋',
+'guṇya : 다수가 된',
+'tat : 그',
+'viparyaya : 전도된 인식',
+'abhāva : 부재',
+'kāraṇa : 원인 ',
+'guṇa : 구나, 속성',
+'ātmakatvāt : 구성된 것처럼',
+'kārya :만들어진, 일어난, 결과',
+'avyakta : 드러나지 않은 것(*경문 #2참조)',
+'api : ~도',
+'siddha : 증명, 성취',
 ],
 [
-'15 드러나지않은 것(쁘라끄리띠) 존재증명1:
-구별되는 것들의 한정으로, 동질성으로, 또한 작용의  능력으로/ 원인결과가 구분되는 것으로, 온세상(다양성)의 구분안되는 것(흡수병합)으로 (드러나지 않은 것의 원인은 있다).
+'15 드러나지않은 것(쁘라끄리띠) 존재증명1:',
+'구별되는 것들의 한정으로, 동질성으로, 또한 작용의  능력으로/ 원인결과가 구분되는 것으로, 온세상(다양성)의 구분안되는 것(흡수병합)으로 (드러나지 않은 것의 원인은 있다).',
 
-bhedānāṃ parimāṇāt samanvayāt śaktitaḥ pravṛtteḥ ca |kāraṇa-kārya-vibhāgāt-avibhāgāt-vaiśvarūpyasya ||
+'bhedānāṃ parimāṇāt samanvayāt śaktitaḥ pravṛtteḥ ca |kāraṇa-kārya-vibhāgāt-avibhāgāt-vaiśvarūpyasya ||',
 
-bheda : (~ānāṃ, 복수 속격) 구별, 차이
-parimāṇa : 측정, 한정
-samanvaya : 동질성, 연결, 계기
-śaktitas : 능력, 힘
-pravṛtti : (~eḥ, 남성 단수 종격속격) 작용, 활동
-ca : 또한
-kāraṇa : 원인
-kārya : 만들어진, 일어난, 결과
-vibhāga : 구분
-avibhāga : 구분안됨
-vaiśvarūpya :온 세상, 다양성, 복수성
+'bheda : (~ānāṃ, 복수 속격) 구별, 차이',
+'parimāṇa : 측정, 한정',
+'samanvaya : 동질성, 연결, 계기',
+'śaktitas : 능력, 힘',
+'pravṛtti : (~eḥ, 남성 단수 종격속격) 작용, 활동',
+'ca : 또한',
+'kāraṇa : 원인ㅍ
+'kārya : 만들어진, 일어난, 결과',
+'vibhāga : 구분',
+'avibhāga : 구분안됨',
+'vaiśvarūpya :온 세상, 다양성, 복수성',
 ],
 [
-'16 드러나지 않은 것(쁘라끄리띠) 존재증명2:
-또 세 구나성 결합으로 / 물처럼 전변이 계속되는 구나의 의존과 분리로 (봐서). 드러나지 않은 원인(쁘라끄리띠)의 존재는 작동한다.
+'16 드러나지 않은 것(쁘라끄리띠) 존재증명2:',
+'또 세 구나성 결합으로 / 물처럼 전변이 계속되는 구나의 의존과 분리로 (봐서). 드러나지 않은 원인(쁘라끄리띠)의 존재는 작동한다.',
 
-kāraṇam-asti-avyaktaṃ pravartate tri-guṇataḥ samudayāt-ca |pariṇāmataḥ salilavat prati-prati-guṇa-āśraya-viśeṣāt ||
+'kāraṇam-asti-avyaktaṃ pravartate tri-guṇataḥ samudayāt-ca |pariṇāmataḥ salilavat prati-prati-guṇa-āśraya-viśeṣāt ||',
 
-kāraṇa : 원인
-asti : 있다
-avyakta : 드러나지 않은 
-pravartate : 작동한다
-tri-guṇatas : 세 구나성
-samudaya : 결합
-ca : 또한
-pariṇāmata : 전변성 
-salila : 물, 물살
-vat : ~처럼
-prati prati : 계속해서  
-guṇa : 구나
-āśraya : 의존
-viśeṣa : 분리, 구별, 차이
+'kāraṇa : 원인',
+'asti : 있다',
+'avyakta : 드러나지 않은',
+'pravartate : 작동한다
+'tri-guṇatas : 세 구나성',
+'samudaya : 결합',
+'ca : 또한',
+'pariṇāmata : 전변성', 
+'salila : 물, 물살',
+'vat : ~처럼',
+'prati prati : 계속해서',
+'guṇa : 구나',
+'āśraya : 의존',
+'viśeṣa : 분리, 구별, 차이',
 ],
 [
-'17 정신 존재 이유:
-정신(뿌루샤)은 존재한다. 결합된 것들의 초월적 목적성 때문에, 세 구나 등의 많은 것(부분)의 지탱 때문에/ (즐거움과 괴로움의) 향수자가 있어야 하기 때문에, 또한 독존을 위한 활동 때문에.
+'17 정신 존재 이유:',
+'정신(뿌루샤)은 존재한다. 결합된 것들의 초월적 목적성 때문에, 세 구나 등의 많은 것(부분)의 지탱 때문에/ (즐거움과 괴로움의) 향수자가 있어야 하기 때문에, 또한 독존을 위한 활동 때문에.',
 
-saṅghāta-para-arthatvāt tri-guṇādi-viparyāt-adhiṣṭhānāt |puruṣaḥ asti bhoktṛbhāvāt kaivalya-arthaṃ pravṛtteḥ ca ||
+'saṅghāta-para-arthatvāt tri-guṇādi-viparyāt-adhiṣṭhānāt |puruṣaḥ asti bhoktṛbhāvāt kaivalya-arthaṃ pravṛtteḥ ca ||',
 
-saṅghāta : 결합, 다수
-para : 다른
-arthatvāt : 목적, 의미, 대상
-tri-guṇādi : 세 구나 등
-viparya : 부분, 많은
-adhiṣṭhāna : 지지, 지탱
-puruṣaḥ : 뿌루샤
-asti : 있다
-bhoktṛ : (즐거움과 괴로움의) 향수자
-bhāvāt : 있음
-kaivalya : 독존
-arthaṃ : 목적
-pravṛtti : (~eḥ, 종격?)(일어나는) 활동, 작용
-ca : 또한
+'saṅghāta : 결합, 다수',
+'para : 다른',
+'arthatvāt : 목적, 의미, 대상',
+'tri-guṇādi : 세 구나 등',
+'viparya : 부분, 많은',
+'adhiṣṭhāna : 지지, 지탱',
+'puruṣaḥ : 뿌루샤',
+'asti : 있다',
+'bhoktṛ : (즐거움과 괴로움의) 향수자',
+'bhāvāt : 있음',
+'kaivalya : 독존',
+'arthaṃ : 목적',
+'pravṛtti : (~eḥ, 종격?)(일어나는) 활동, 작용',
+'ca : 또한',
 ],
 [
-'18 정신 다수성:
-정신(뿌루샤)의 다수성은 증명된다. 태어나 죽고 일어나는(작용하는) 자들의 개별 법칙(할당) 때문에, 또한 정말이지 비동시적 활동 때문에/ 세 구나로 인한 많은 변화 때문에.
+'18 정신 다수성:',
+'정신(뿌루샤)의 다수성은 증명된다. 태어나 죽고 일어나는(작용하는) 자들의 개별 법칙(할당) 때문에, 또한 정말이지 비동시적 활동 때문에/ 세 구나로 인한 많은 변화 때문에.',
 
-janana-maraṇa-karaṇānāṃ pratiniyamāt-ayugapat-pravṛtteḥ ca |puruṣa-bahutvaṃ siddhaṃ tri-guṇya-viparyayāt-ca-eva ||
+'janana-maraṇa-karaṇānāṃ pratiniyamāt-ayugapat-pravṛtteḥ ca |puruṣa-bahutvaṃ siddhaṃ tri-guṇya-viparyayāt-ca-eva ||',
 
-janana : 태어나는
-maraṇa : 죽는
-karaṇa : 일어나는, 작용하는, 원인, 감각기관
-pratiniyama : 개별 법칙, 개별적 할당
-ayugapad : 동시적이 아닌, 비동시적
-pravṛtti : 활동, 작용
-ca : 또한
-puruṣa : 뿌루샤
-bahutva : 다수성, 복수성
-siddha : 증명, 확인, 성취 
-tri-guṇya : 세 구나
-viparyaya : 부분, 많은, 변화
-ca : 또한
-eva : 정말이지
+'janana : 태어나는',
+'maraṇa : 죽는',
+'karaṇa : 일어나는, 작용하는, 원인, 감각기관',
+'pratiniyama : 개별 법칙, 개별적 할당',
+'ayugapad : 동시적이 아닌, 비동시적',
+'pravṛtti : 활동, 작용',
+'ca : 또한',
+'puruṣa : 뿌루샤',
+'bahutva : 다수성, 복수성',
+'siddha : 증명, 확인, 성취 ',
+'tri-guṇya : 세 구나',
+'viparyaya : 부분, 많은, 변화',
+'ca : 또한',
+'eva : 정말이지',
 ],
 [
-'19 정신, 행위하지 않는자:
-그래서 또한 그 반대 것인 정신(뿌루샤)이 증거이다/ 독존 중립 지각(봄) 행위하지 않는자이다.
+'19 정신, 행위하지 않는자:',
+'그래서 또한 그 반대 것인 정신(뿌루샤)이 증거이다/ 독존 중립 지각(봄) 행위하지 않는자이다.',
 
-tasmāt-ca viparyāsāt siddhaṃ sākṣitvam-asya puruṣasya |kaivalyaṃ mādhyastyaṃ draṣṭṛtvam-akartṛbhāvaḥ ca ||
+'tasmāt-ca viparyāsāt siddhaṃ sākṣitvam-asya puruṣasya |kaivalyaṃ mādhyastyaṃ draṣṭṛtvam-akartṛbhāvaḥ ca ||',
 
-tasmāt : 그것에서
-ca : 또한
-viparyāsa : 전도, 대조, 반대
-asāt : 
-siddha : 성취, 형성된 것, 이루어진 것 
-sākṣitva : 증거
-asya : 그의 
-puruṣasya : 뿌루샤의, 정신의
-kaivalya : 독존
-mādhyastya : 중재, 중립
-draṣṭṛtva : 보는 능력, 지각
-akartṛbhāvaḥ : 행위하지 않는 존재
-ca : 또한
+'tasmāt : 그것에서',
+'ca : 또한',
+'viparyāsa : 전도, 대조, 반대',
+'asāt : ',
+'siddha : 성취, 형성된 것, 이루어진 것 ',
+'sākṣitva : 증거',
+'asya : 그의 ',
+'puruṣasya : 뿌루샤의, 정신의',
+'kaivalya : 독존',
+'mādhyastya : 중재, 중립',
+'draṣṭṛtva : 보는 능력, 지각',
+'akartṛbhāvaḥ : 행위하지 않는 존재',
+'ca : 또한',
 ],
 [
-'20 정신 원질 혼동, 무명:
-그래서 결합된 것이기에 알아차리지(감수하지) 못하는 그 링가(표식, 붓디 이하의 것들)를 알아차리는(감수하는) 자처럼/ 구나가 알아차리는(감수하는) 것처럼 여기고, 또 중립한 자(뿌루샤)도  그렇게 행위자처럼 여긴다.
+'20 정신 원질 혼동, 무명:',
+'그래서 결합된 것이기에 알아차리지(감수하지) 못하는 그 링가(표식, 붓디 이하의 것들)를 알아차리는(감수하는) 자처럼/ 구나가 알아차리는(감수하는) 것처럼 여기고, 또 중립한 자(뿌루샤)도  그렇게 행위자처럼 여긴다.',
 
-tasmāt-tat-saṃyogāt-acetanaṃ cetanāvat-iva liṅgam |
-guṇa-kartṛtve-api tathā karteva bhavati-udāsīnaḥ ||
+'tasmāt-tat-saṃyogāt-acetanaṃ cetanāvat-iva liṅgam |guṇa-kartṛtve-api tathā karteva bhavati-udāsīnaḥ ||',
 
-tasmāt : 그것으로, 그래서
-tat : 그
-saṃyogāt : 결합으로
-acetana : 감수 못함, 내관없음, 의식하지 못함
-cetanāvat : 내관하는 것처럼, 의식하는 것처럼
-iva :~처럼
-liṅga : 객체(사라지는), 표식, 결과(붓디 이하의 것들)
-guṇa : 구나
-kartṛtva : 행위, 행위자성, 행위자로 여김
-api : ~도
-tathā : 그렇게 
-karta : 행위자
-iva :처럼
-bhavati
-udāsīna : 중립한 자, 무심한 자, (뿌루샤를 지칭)
+'tasmāt : 그것으로, 그래서',
+'tat : 그',
+'saṃyogāt : 결합으로',
+'acetana : 감수 못함, 내관없음, 의식하지 못함',
+'cetanāvat : 내관하는 것처럼, 의식하는 것처럼',
+'iva :~처럼',
+'liṅga : 객체(사라지는), 표식, 결과(붓디 이하의 것들)',
+'guṇa : 구나',
+'kartṛtva : 행위, 행위자성, 행위자로 여김',
+'api : ~도',
+'tathā : 그렇게 ',
+'karta : 행위자',
+'iva :처럼',
+'bhavati :',
+'udāsīna : 중립한 자, 무심한 자, (뿌루샤를 지칭)',
 ],
 [
 ' 21 정신 원질 결합 앉은뱅이 봉사:
