@@ -1,6 +1,5 @@
 const samKar = [1,2,3,4,5];
   //상키야 까리까경 Sāṃkhya Kārikā of Īśvara Kṛṣṇa
-
 /*
 ['sk 1 세가지 고통:',
 '세 가지 고통의* 공격으로, 그 벗어날(공격성) 원인을 알고싶지만/ 본(경험한) 것들은 의미 없었다. 혹 (의미가) 있었다고 해도, (그것들은) 절대적으로 완전히 없어지지 않았다.',
@@ -1622,21 +1621,18 @@ const samKar = [1,2,3,4,5];
 ]
 
 */
-//];
 
+/*
+//참고 문헌*
+const samKarBooks= [
+'Samkhya Karika of Isvara KRSNa with the Tattva Kaumudi of Sri Vacaspati Misra by Swami Virupashananda, 출판년표기 없음. (출판인 노트 Madras, Nov. 1995. )',
 
- /*
-*참고 문헌*
+'The Sacred Books of Hindus. vol.11 SamKhya Philosophy ((1)Samkhya Pravacana Sutram, with the Vrtti of Aniruddha and the Bhasya of VijNana BhikSu and Extracts from the vrtti sAra of mahAdeva Vedantin (2)Tattva samAsa (3)sAmkhya kArikA (4)PancaSikhA SUtram ) translated by Nadalal Sinha, M.A., B.L.,P.C.S. 1915',
 
+'Sankhya Philosophy by ?sh Chandra Banerji, Fasciculus 1, Sankhya Karika with Gaudapa’s Scholia and Narayqana’s Gloss, Calcutta 년도표기 없음(1900년 전후?)',
 
--Samkhya Karika of Isvara KRSNa with the Tattva Kaumudi of Sri Vacaspati Misra by Swami Virupashananda, 출판년표기 없음. (출판인 노트 Madras, Nov. 1995. )
+-'Aniruddha’s Comentary And the Original Part of Vedantin Mahadeva’s Comentary on the Samkhya Sutras(6권), Translated By Richard Garbe, Calcutta 1892',
 
--The Sacred Books of Hindus. vol.11 SamKhya Philosophy ((1)Samkhya Pravacana Sutram, with the Vrtti of Aniruddha and the Bhasya of VijNana BhikSu and Extracts from the vrtti sAra of mahAdeva Vedantin (2)Tattva samAsa (3)sAmkhya kArikA (4)PancaSikhA SUtram ) translated by Nadalal Sinha, M.A., B.L.,P.C.S. 1915
-
--Sankhya Philosophy by ?sh Chandra Banerji, Fasciculus 1, Sankhya Karika with Gaudapa’s Scholia and Narayqana’s Gloss, Calcutta 년도표기 없음(1900년 전후?).
-
--Aniruddha’s Comentary And the Original Part of Vedantin Mahadeva’s Comentary on the Samkhya Sutras(6권), Translated By Richard Garbe, Calcutta 1892.
-
--Samkhya Aphorisms of Kapila with Illustrative Extracts from the Commentaries, translated by James R. Ballantyne, LL. D. Third Edition. London 1885.
-
+'Samkhya Aphorisms of Kapila with Illustrative Extracts from the Commentaries, translated by James R. Ballantyne, LL. D. Third Edition. London 1885'
 ];
+*/
