@@ -1154,7 +1154,7 @@ const samKar = [
 '(보충설명) ',
 'aṣṭa vikalpaḥ daivaḥ tairyagyonaḥ ca pañcadhā bhavati |mānuṣakaḥ ca eka vidhaḥ samāsataḥ (ayam) bhautikaḥ sargaḥ ||',
 
-'aṣṭa : 8  (*8 분류 신들: 브라흐만, 쁘라자빠띠, 인드라, 삐뜨르, 간다르바, 약샤, 락사사,삐샤짜)'
+'aṣṭa : 8  (*8 분류 신들: 브라흐만, 쁘라자빠띠, 인드라, 삐뜨르, 간다르바, 약샤, 락사사,삐샤짜)',
 'vikalpaḥ : 분별(망상), 분류',
 'daivaḥ : 신들은',
 'tairyagyonaḥ : 기는 존재들',
