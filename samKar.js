@@ -1614,8 +1614,8 @@ const samKar = [
 'saṃ[ṅ]krānta : 함께 가는, 비춰진',
 'iva : 처럼',
 'bim(ṃ)ba : 원판, 영역, 거울',
-],
-
+]
+];
 /*
 //참고 문헌*
 const samKarBooks= [
@@ -1630,4 +1630,4 @@ const samKarBooks= [
 'Samkhya Aphorisms of Kapila with Illustrative Extracts from the Commentaries, translated by James R. Ballantyne, LL. D. Third Edition. London 1885'
 ];
 */
-];
+
