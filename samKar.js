@@ -1099,7 +1099,6 @@ const samKar = [
 'tuṣṭayaḥ : 만족들',
 'abhimatāḥ : 선언된 것들',
 ],
-/*
 [
 '51 8가지 성취:',
 '숙고, 성언, 독송, 세가지 고통에서 벗어남, 도반 획득 / 보시(정화) 등이 8가지 성취이고, 성취 전의  고리(방해?)는 세 종류이다.(*세 종류: 무지, 무능, 만족)',
@@ -1153,7 +1152,7 @@ const samKar = [
 '신은 8 분류이고, 기는 것은 5 종류가 있다/ 인간은 한 종류이다. 간단히 (말해서) [이것이]  (물질적) 요소들의 창조이다.  ',
 
 '(보충설명) ',
-'aṣṭa vikalpaḥ daivaḥ tairyagyonaḥ ca pañcadhā bhavati |mānuṣakaḥ ca eka vidhaḥ samāsataḥ [ayam] bhautikaḥ sargaḥ ||',
+'aṣṭa vikalpaḥ daivaḥ tairyagyonaḥ ca pañcadhā bhavati |mānuṣakaḥ ca eka vidhaḥ samāsataḥ (ayam) bhautikaḥ sargaḥ ||',
 
 'aṣṭa : 8  (*8 분류 신들: 브라흐만, 쁘라자빠띠, 인드라, 삐뜨르, 간다르바, 약샤, 락사사,삐샤짜)'
 'vikalpaḥ : 분별(망상), 분류',
@@ -1318,6 +1317,7 @@ const samKar = [
 'apārthaka :apa+artha +ka; 의미없이, 쓸데없이',
 'carati : 추구하다. 움직이다. 활동하다',
 ],
+/*
 [
 '61 정신 모습을 봄, 원질 최고의 활동:'
 '원질(쁘라끄리띠)이, 나는 정신(뿌루샤)의 모습을 본다(고 여기)는 것보다/ 그녀(쁘라끄리띠)가, 더 우아한 어떤 것도 다시 획득하는 일은 없다는 것이, 나의 의견이다.',
