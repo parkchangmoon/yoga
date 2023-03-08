@@ -1,4 +1,4 @@
-const samkar =['1,2,3,4,5];
+const samKar = [1,2,3,4,5];
   //상키야 까리까경 Sāṃkhya Kārikā of Īśvara Kṛṣṇa
 
 /*
