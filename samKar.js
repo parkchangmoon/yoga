@@ -1616,8 +1616,6 @@ const samKar = [
 'bim(ṃ)ba : 원판, 영역, 거울',
 ],
 
-*/
-
 /*
 //참고 문헌*
 const samKarBooks= [
