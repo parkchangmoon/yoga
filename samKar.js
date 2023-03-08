@@ -1,6 +1,4 @@
-const samKar = ['가을', '겨울', '여름', '봄'];
-  //상키야 까리까경 Sāṃkhya Kārikā of Īśvara Kṛṣṇa
-/*
+const samKar = [
 ['sk 1 세가지 고통:',
 '세 가지 고통의* 공격으로, 그 벗어날(공격성) 원인을 알고싶지만/ 본(경험한) 것들은 의미 없었다. 혹 (의미가) 있었다고 해도, (그것들은) 절대적으로 완전히 없어지지 않았다.',
 
@@ -24,10 +22,8 @@ const samKar = ['가을', '겨울', '여름', '봄'];
 'ekānta : 절대적으로, 확실히',
 'atyantata : 완전히, 끝까지',
 'abhāva : (~āt, 종격) 없어짐',
-];
-/*
-[
-'sk 2 고통의 해결자:',
+],
+['sk 2 고통의 해결자:',
 '본(경험한) 것처럼, 들은 것(경전)도, 불순하고, 파괴적이고, 지나친 것과 연결되어서/ 그것과는 다른, 드러난것*, 드러나지않은것*, 아는자*를 식별하는데 더 훌륭한 것이 (필요하다)',
 
 '(보충설명) ',
@@ -1636,3 +1632,4 @@ const samKarBooks= [
 'Samkhya Aphorisms of Kapila with Illustrative Extracts from the Commentaries, translated by James R. Ballantyne, LL. D. Third Edition. London 1885'
 ];
 */
+];
