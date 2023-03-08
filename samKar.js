@@ -74,7 +74,7 @@ const samKar = [
 '지각, 추론, 성언이 모든 바른인식의 성취이기에/ 바른 인식은 세 종류이다. 원하는, 확인되어야 할 성취들은 바른 인식으로 (얻기) 때문이다.
 
 '(보충설명) ',
-'dṛṣṭam-anumānam-āpta-vacanaṃ ca sarva-pramāṇa-siddhatvāt | tri-vidhaṃ pramāṇam-iṣṭaṃ prameya-siddhiḥ pramāṇāt-hi ||
+'dṛṣṭam-anumānam-āpta-vacanaṃ ca sarva-pramāṇa-siddhatvāt | tri-vidhaṃ pramāṇam-iṣṭaṃ prameya-siddhiḥ pramāṇāt-hi ||',
 
 'dṛṣṭa : 본 것, 지각',
 'anumāna : 추론',
