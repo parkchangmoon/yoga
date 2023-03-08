@@ -1,4 +1,4 @@
-const samKar = [1,2,3,4,5];
+const samKar = ['가을', '겨울', '여름'];
   //상키야 까리까경 Sāṃkhya Kārikā of Īśvara Kṛṣṇa
 /*
 ['sk 1 세가지 고통:',
