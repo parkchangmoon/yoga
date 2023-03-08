@@ -1422,7 +1422,7 @@ const samKar = [
 '그(쁘라끄리띠) 움직임이 멈추고 대상(목적)의 힘으로 7 가지* (묶인) 형태(루우빠)가 사라지고/ 원질(쁘라끄리띠)을 보는 정신(뿌루샤)이 관객처럼 투명하게 자리잡는다. ',
 
 '(보충설명) ',
-'tena nivṛttapras[ś]ava[ā] arthavaśāt sapta rūpa vinivṛttām |prakṛtiṃ paśyati puruṣaḥ prekṣakavat avasthitaḥ svacchaḥ ||',
+'tena nivṛttapras(ś)ava(ā) arthavaśāt sapta rūpa vinivṛttām |prakṛtiṃ paśyati puruṣaḥ prekṣakavat avasthitaḥ svacchaḥ ||',
 
 'tena : 그것으로',
 'nivṛtta : 되돌아감, 멈춤',
