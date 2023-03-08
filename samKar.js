@@ -1613,7 +1613,7 @@ const samKar = [
 'darpaṇa : 거울',
 'saṃ[ṅ]krānta : 함께 가는, 비춰진',
 'iva : 처럼',
-'bim[ṃ]ba : 원판, 영역, 거울',
+'bim(ṃ)ba : 원판, 영역, 거울',
 ]
 
 */
