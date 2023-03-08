@@ -1314,7 +1314,7 @@ const samKar = [
 'sat : (~aḥ, 남성 단수 종격속격) 존재의 ',
 'tasya : 그',
 'artham : 목적',
-'apārthaka :apa+artha +ka; 의미없이, 쓸데없이',
+'apārthaka :apa+artha +ka: 의미없이, 쓸데없이',
 'carati : 추구하다. 움직이다. 활동하다',
 ],
 /*
