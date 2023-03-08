@@ -1620,7 +1620,7 @@ const samkar =[
 ];
 
 
- 
+ /*
 *참고 문헌*
 
 
@@ -1634,6 +1634,4 @@ const samkar =[
 
 -Samkhya Aphorisms of Kapila with Illustrative Extracts from the Commentaries, translated by James R. Ballantyne, LL. D. Third Edition. London 1885.
 
-
-
-]
+];
