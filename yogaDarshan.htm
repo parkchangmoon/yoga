@@ -130,6 +130,38 @@ for (let i in yogaSutra) {
 				});
 		 };
 		 
+		 function samKarFunction() {
+  $(document).ready(function(){
+		    $("div").click(function(){
+            	 $(this).children("p").toggle();
+  });
+});
+  let x = "";
+for (let i in samKar) {				
+	 kk= samKar[i][0].replace('sk', '쌍까');
+	 x += "<div>"
++ "<h4 class='loke' >" + kk + "</h4>" 
++ "<h4 class='hani'>" + samKar[i][1] + "</h4>"
++ "<p class='desc'>" + samKar[i][2] + "</p>"
++ "<p class='romi'>" + samKar[i][3] + "</p>"
+
+for (let j =4; j<samKar[i].length; j++) {
+x += "<p class= 'wordi' >" + samKar[i][j] + "<br>";
+		}
+		x += "</p>"
+		+ "</div>";
+		}
+		document.getElementById("sutra").innerHTML= x;
+			
+			$(".loke, .desc, .wordi").css("color", "blue");
+			$(".devi, .romi").css("color", "violet");
+			
+			$(document).ready(function(){
+				$("div").children("p").hide();
+				});
+		 };
+	
+		 
 //  원찾아 펑션
 function chajaFunction(chaja){
 			for (let i in yogaSutra) {
