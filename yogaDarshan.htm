@@ -35,11 +35,10 @@ p {
 
 </head>
 <body>
-	
+<button type='button' onclick='skFunction()'>쌍키야</button>
 <button type='button' onclick='ysFunction()'>요가경</button>
-	
-<button type='button' onclick='bgvdFunction()'>바가바드</button>
-<button type='button' onclick='skFunction()'>싸앙키야</button>
+<button type='button' onclick='bgvdFunction()'>바가밧</button>
+
 <button type='button' onclick='srtwordFunction()'>소트단어</button>
 <button type='button' onclick='dicFunction()'>싼스사전</button>
 <button type='button' style='margin-left:30' onclick='newFunction()'>새로고침</button>
@@ -175,26 +174,35 @@ function chajaFunction(chaja){
 		let gg1=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
 
 		document.write(kk + "::" + gg1 + "<br><br>");
-		
-		// document.getElementById("words").innerHTML+= kk + "::" + gg1 + "<br>";
-  }}
-	}};
-// 단어 찾아
-function chajawFunction(){
-      const chaja=document.getElementById('name').value;
-			for (let i in yogaSutra) {
-					 let kk=yogaSutra[i][0].slice(0,6);
-	         kk= kk.replace('ys', '요가경');
-	 				  for (let j =5; j<yogaSutra[i].length; j++) {
-	    if (yogaSutra[i][j].includes(chaja)){
-		let gg=yogaSutra[i][j];
-		let gg1=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
-
-		document.write(kk + "::" + gg1 + "<br><br>");
-	}
-	}
+		}
+		}
 	}
   };
+// 단어 찾아
+function chajawFunction(){
+      let gg="";
+      let gg1="";
+     const chaja=document.getElementById('name').value;
+     
+     	for (let i in samKar) {
+				let kk=samKar[i][0].slice(0,3);
+	        // kk= kk.replace('ys', '요가경');
+	 				  for (let j =4; j<samKar[i].length; j++) {
+	    if (samKar[i][j].includes(chaja)){
+		 gg=kk + " " + samKar[i][j] +"<br>";
+		 gg1+=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
+		}}}
+
+			for (let i in yogaSutra) {
+				let kk=yogaSutra[i][0].slice(0,6);
+	        // kk= kk.replace('ys', '요가경');
+	 				  for (let j =5; j<yogaSutra[i].length; j++) {
+	    if (yogaSutra[i][j].includes(chaja)){
+		 gg=kk + " " + yogaSutra[i][j] +"<br>";
+		 gg1+=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
+		}}}
+			document.write( gg1 + "<br>");
+	  };
 
 //한글 찾아		
 function chajahFunction() {
