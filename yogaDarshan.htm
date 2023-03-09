@@ -128,7 +128,8 @@ for (let i in yogaSutra) {
 				$("div").children("p").hide();
 				});
 		 };
-		 
+	
+//쌍키야 까리까 가져오기	 
 		 function skFunction() {
   $(document).ready(function(){
 		    $("div").click(function(){
@@ -258,13 +259,21 @@ function chajaoFunction() {
 	function srtwordFunction() {
 		let tt="";
 		let tt1="";
+		
+		for (let i in samKar) {
+		    	 let kk=samKar[i][0].slice(0,3);
+		    	for (let j =4; j<samKar[i].length; j++) {
+				tt += samKar[i][j] + "  " + kk + "&";
+				}
+				}
+		
 		for (let i in yogaSutra) {
 		    	 let kk=yogaSutra[i][0].slice(0,6);
 		    	for (let j =5; j<yogaSutra[i].length; j++) {
 				tt += yogaSutra[i][j] + "  " + kk + "&";
 				}
 				}
-					var newBgvd =tt.split("&");
+					let newBgvd =tt.split("&");
 				document.getElementById("words").innerHTML  = newBgvd.sort().join("<br>");
 };
 
