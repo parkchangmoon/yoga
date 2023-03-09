@@ -288,10 +288,15 @@ function dicFunction(){
 for (let i in yogaSutra) {
 	for (let j=5;j<yogaSutra[i].length;j++) {
  alldic1 += yogaSutra[i][j]+ "#";
-	}
+	}}
+	
+	for (let i in samKar) {
+	for (let j=4;j<samKar[i].length;j++) {
+ alldic1 += samKar[i][j]+ "#";
+	}}
+	
   alldic = alldic1.split("#");
-   }
-
+  
    for (let i of alldic) {
 tt = i.indexOf(":");
 onedic+= i.slice(0, tt) + "#";
