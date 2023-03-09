@@ -232,18 +232,26 @@ function chajahFunction() {
 	
 // 원문찾아
 function chajaoFunction() {
+      let gg="";
+      let gg1="";
 		const chaja=document.getElementById('name').value;
-			for (let i in yogaSutra) {
-					 let kk=yogaSutra[i][0].slice(0,6);
-	         kk= kk.replace('ys', '요가경');
-	 
-		if (yogaSutra[i][4].includes(chaja)){
-		let gg=yogaSutra[i][4];
-		let gg1=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
-
-		document.write(kk + "::" + gg1 + "<br><br>");
-		
+	
+	    for (let i in samKar) {
+					 let kk=samKar[i][0].slice(0,3);
+	         kk= kk.replace('sk', '쌍키야까');
+	 		if (samKar[i][4].includes(chaja)){
+		 gg=kk + " : " + samKar[i][3] + "<br><br>";
+		 gg1+=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
 		}}
+			
+			for (let i in samKar) {
+					 let kk=samKar[i][0].slice(0,6);
+	         kk= kk.replace('ys', '요가경');
+	 		if (yogaSutra[i][4].includes(chaja)){
+		 gg=kk + " : " + yogaSutra[i][4] + "<br><br>";
+		 gg1+=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
+		}}
+	document.write(gg1 +);
 	};
 
 // 소트 단어
