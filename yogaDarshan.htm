@@ -164,20 +164,28 @@ x += "<p class= 'wordi' >" + samKar[i][j] + "<br>";
 		 
 //  원찾아 펑션
 function chajaFunction(chaja){
+	          let gg="";
+	          let gg1="";
+	     
+	     for (let i in samKar) {
+					 let kk=samKar[i][0].slice(0,4);
+	         kk= kk.replace('sk', '쌍까');
+	 				  for (let j =4; j<samKar[i].length; j++) {
+	     if (samKar[i][j].includes(chaja)){
+		    gg=kk + " " + samKar[i][j] +"<br>";
+		    gg1+=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
+	     }}}
+    	
 			for (let i in yogaSutra) {
 					 let kk=yogaSutra[i][0].slice(0,6);
 	         kk= kk.replace('ys', '요가경');
-	 
-				  for (let j =5; j<yogaSutra[i].length; j++) {
-	  	
-	  if (yogaSutra[i][j].includes(chaja)){
-		let gg=yogaSutra[i][j];
-		let gg1=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
-
-		document.write(kk + "::" + gg1 + "<br><br>");
-		}
-		}
-	}
+	 				  for (let j =5; j<yogaSutra[i].length; j++) {
+	     if (yogaSutra[i][j].includes(chaja)){
+		    gg=kk + " " + yogaSutra[i][j] +"<br>";
+		    gg1+=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
+	  	}}}
+    	  	
+		document.write(gg1);
   };
 // 단어 찾아
 function chajawFunction(){
@@ -186,7 +194,7 @@ function chajawFunction(){
      const chaja=document.getElementById('name').value;
      
      	for (let i in samKar) {
-				let kk=samKar[i][0].slice(0,3);
+				let kk=samKar[i][0].slice(0,4);
 	        // kk= kk.replace('ys', '요가경');
 	 				  for (let j =4; j<samKar[i].length; j++) {
 	    if (samKar[i][j].includes(chaja)){
@@ -202,7 +210,7 @@ function chajawFunction(){
 		 gg=kk + " " + yogaSutra[i][j] +"<br>";
 		 gg1+=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
 		}}}
-			document.write( gg1);
+			document.write(gg1);
 	  };
 
 //한글 찾아		
@@ -212,8 +220,8 @@ function chajahFunction() {
 		const chaja=document.getElementById('name').value;
 		
 		for (let i in samKar) {
-					 let kk=samKar[i][0].slice(0,3);
-	         kk= kk.replace('ys', '요가경');
+					 let kk=samKar[i][0].slice(0,4);
+	         kk= kk.replace('sk', '쌍까');
 	 
 		if (samKar[i][1].includes(chaja)){
 		 gg= kk + " : " + samKar[i][1] + "<br><br>";
@@ -222,7 +230,7 @@ function chajahFunction() {
 		
 			for (let i in yogaSutra) {
 					 let kk=yogaSutra[i][0].slice(0,6);
-	         kk= kk.replace('ys', '요가경');
+	         kk= kk.replace('ys', '요가');
 	 
 		if (yogaSutra[i][1].includes(chaja)){
 		 gg= kk + " : " + yogaSutra[i][1] + "<br><br>";
@@ -238,7 +246,7 @@ function chajaoFunction() {
 		const chaja=document.getElementById('name').value;
 	
 	    for (let i in samKar) {
-					 let kk=samKar[i][0].slice(0,3);
+					 let kk=samKar[i][0].slice(0,4);
 	         kk= kk.replace('sk', '쌍키야까');
 	 		if (samKar[i][3].includes(chaja)){
 		 gg=kk + " : " + samKar[i][3] + "<br><br>";
@@ -261,7 +269,7 @@ function chajaoFunction() {
 		let tt1="";
 		
 		for (let i in samKar) {
-		    	 let kk=samKar[i][0].slice(0,3);
+		    	 let kk=samKar[i][0].slice(0,4);
 		    	for (let j =4; j<samKar[i].length; j++) {
 				tt += samKar[i][j] + "  " + kk + "&";
 				}
@@ -285,14 +293,14 @@ function dicFunction(){
 			let alldic1 ="";
       let tt="";
 
-for (let i in yogaSutra) {
-	for (let j=5;j<yogaSutra[i].length;j++) {
- alldic1 += yogaSutra[i][j]+ "#";
-	}}
-	
 	for (let i in samKar) {
 	for (let j=4;j<samKar[i].length;j++) {
  alldic1 += samKar[i][j]+ "#";
+	}}
+
+ for (let i in yogaSutra) {
+	for (let j=5;j<yogaSutra[i].length;j++) {
+ alldic1 += yogaSutra[i][j]+ "#";
 	}}
 	
   alldic = alldic1.split("#");
