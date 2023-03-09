@@ -1452,7 +1452,7 @@ const samKar = [
 'upekṣakaḥ : 평정 ',
 'ekaḥ : 하나',
 'dṛṣṭā : 본',
-'aham ; 나',
+'aham : 나',
 'iti :~라고',
 'uparamati :(원형 uparam) 물러난다. 멈춘다',
 'anya : 다른',
