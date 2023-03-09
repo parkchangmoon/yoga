@@ -244,14 +244,14 @@ function chajaoFunction() {
 		 gg1+=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
 		}}
 			
-			for (let i in samKar) {
-					 let kk=samKar[i][0].slice(0,6);
+			for (let i in yogaSutra) {
+					 let kk=yogaSutra[i][0].slice(0,6);
 	         kk= kk.replace('ys', '요가경');
 	 		if (yogaSutra[i][4].includes(chaja)){
 		 gg=kk + " : " + yogaSutra[i][4] + "<br><br>";
 		 gg1+=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
 		}}
-	document.write(gg1 +);
+	document.write(gg1);
 	};
 
 // 소트 단어
