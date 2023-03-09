@@ -192,7 +192,7 @@ const samKar = [
 'upādāna : 지각, 획득',
 'grahaṇa : 포착하는,  붙잡는',
 'sarva : 모든',
-'saṃbhava (~ā, 여성형?) 결합',
+'saṃbhava :(~ā, 여성형?) 결합',
 'abhāva : 되지 않음, 있지 않음',
 'śakta : 가능한',
 'śakya : 가능해진, 그럴만한',
