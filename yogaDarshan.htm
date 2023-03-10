@@ -198,7 +198,7 @@ function chajawFunction(){
 	        // kk= kk.replace('ys', '요가경');
 	 				  for (let j =4; j<samKar[i].length; j++) {
 	    if (samKar[i][j].includes(chaja)){
-		 gg=kk + " " + samKar[i][j] +"<br>";
+		 gg=kk + " " + samKar[i][j] +"<br><br>";
 		 gg1+=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
 		}}}
 
@@ -207,7 +207,7 @@ function chajawFunction(){
 	        // kk= kk.replace('ys', '요가경');
 	 				  for (let j =5; j<yogaSutra[i].length; j++) {
 	    if (yogaSutra[i][j].includes(chaja)){
-		 gg=kk + " " + yogaSutra[i][j] +"<br>";
+		 gg=kk + " " + yogaSutra[i][j] +"<br><br>"i;
 		 gg1+=gg.replace(`${chaja}`, `<span style = "background-color:orange">${chaja}</span>`);
 		}}}
 			document.write(gg1);
