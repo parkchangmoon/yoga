@@ -988,7 +988,7 @@ const samKar = [
 ],
 [
 'sk45 욕망 윤회:',
-'욕망에서 벗어남(욕망포기)으로 원질(쁘라끄리띠)에 융합한다. 라자스(동질)과 탐욕으로 윤회가 있다./ 이쉬와라 힘으로 장애가 없어지고, 그 전도(이쉬와라 힘이 없는 것)로부터 뒤집어짐이 있다.',
+'욕망에서 벗어남(욕망포기)으로 원질(쁘라끄리띠)에 융합한다. 라자스(동질)와 탐욕으로 윤회가 있다./ 이쉬와라 힘으로 장애가 없어지고, 그 전도(이쉬와라 힘이 없는 것)로부터 뒤집어짐이 있다.',
 
 '(보충설명) ',
 'vairāgya[ā]t prakṛtilayaḥ saṃsāro bhavati rājasāt rāgāt |aiśvaryāt avighātaḥ viparyayāt tad viparyāsaḥ ||',
@@ -1007,8 +1007,8 @@ const samKar = [
 'viparyāsa:(~ḥ, 남성단수주격) 뒤집어짐, 반대되는 것, 실수',
 ],
 [
-'sk46 생각 일어남(번뇌망상) 50가지:',
-'이것이, 장애, 무능, 만족, 성취라고 말하는, 생각 일어남*이다. / 구나의 다양한 얽힘으로 그 구별들은 50 가지이다.',
+'sk46 생각 일어남(번뇌망상)',
+'이것이 장애, 무능, 만족, 성취라고 (말)하는, 생각 일어남*이다. / 구나의 다양한 얽힘으로 그 구별들은 50 가지이다.',
 
 '(보충설명) 생각 일어남으로 번역한 것은, pratyaya sarga이다. 이것은 요가경에서 말하는 마음작용과 같은 뜻이라고 여겨진다. 모든 마음에서 일어난 생각이 번뇌망상을 일으키는 것이다. ',
 'eṣah pratyayasargaḥ viparyaya-aśakti-tuṣṭi(ḥ) -siddhi-ākhyaḥ |guṇa-vaiṣamya-vimardāt tasya ca bhedāḥ tu pāñcāśat ||',
@@ -1031,8 +1031,8 @@ const samKar = [
 'pāñcāśat: 50',
 ],
 [
-'sk47 장애 무능 만족 성취',
-' 5 종류 장애 구별들이 있고, 무능 또한 결함을 원인으로, / 28 종류 (구별들이 있고), 만족  9 종류, 성취 8 종류의 구별들이 있다.',
+'sk47 쉰 가지 생각 일어남(번뇌망상)',
+' 5 가지 장애 구별들이 있고, 무능 또한 결함을 원인으로, / 28 가지 (구별들이 있고), 만족  9 가지, 성취 8 가지의 구별들이 있다.',
 
 '(보충설명) ',
 'pañca viparyaya bhedāḥ bhavaṅti aśaktiḥ ca karaṇa vaikalyāt |aṣṭāvimśāti bhedāḥ tuṣṭiḥ navadhā aṣṭadhā siddhiḥ ||',
@@ -1054,26 +1054,27 @@ const samKar = [
 'siddhi:(~ḥ,여성단수주격) 성취',
 ],
 [
-'sk48 다섯 장애-무명 자의식 욕망 혐오 생명욕',
-'어둠(무명)* 구분은 8 종류, 망상(자의식)*도 또한 (8종류이고), 대망상(욕망)*은 10 종류이다/ 분노(혐오)* 18 종류, 어두운 분노(생명욕)*도 그렇게(18 종류) 있다.',
+'sk48 다섯 장애',
+'어둠(무명)* 구별 8 가지, 망상(자의식)* 또한 (8 가지), 대망상(욕망)* 10 가지이다/ 분노(혐오)* 18 가지, 어두운 분노(생명욕)*도 그렇게(18 가지) 있다.',
 
-'(보충설명) ',
+'(보충설명) 다섯 장애에 대해서 sinha는 어둠(tamasa)을 무명(avidyā)으로, 망상(moha)을 자의식(aśmitā), 대망상(mahāmoha)을 욕망(rāga), 분노(tāmiśra)를 혐오(dveśa), 어두운 분노(aṅdhatāmiśra)를 생명욕(abhiniveśa)으로 풀이하고 있다. ',
+
 'bhedaḥ tamasaḥ aṣṭa vidhaḥ mohas[a]ya ca daśavidhaḥ maha-mohaḥ |tāmisraḥ aṣṭādaśadhā tathā bhavati aṅdhatāmisraḥ ||',
 
-'bheda:(~ḥ,남성단수주격)구별,구분',
-'tamasa:(~h,남성단수주격) 어둠, 무명(*Sinha의 주석에 의하면 무명(아비드야)을 가르킴)',
+'bheda:(~ḥ,남성단수주격)다름,구별',
+'tamasa:(~h,남성단수주격) 어둠',
 'aṣṭa: 8',
 'vidha:(~ḥ,남성단수주격) 종류',
-'moha: (~sya, 속격) 망상 (*Sinha의 주석에 의하면, 자아의식(아스미따)를 가리킴)',
+'moha: (~sya, 속격) 망상 ',
 'ca ',
 'daśa:10',
 'vidhaḥ=:',
-'maha-moha:(~ḥ,남성단수주격) 대망상(*Sinha의 주석에 의하면 욕망(라가)를 가르침것)',
-'tāmisra:(~ḥ,남성단수주격) 분노(*Sinha의 주석에 의하면 혐오(드베샤)를 가르킴)',
+'maha-moha:(~ḥ,남성단수주격) 대망상',
+'tāmisra:(~ḥ,남성단수주격) 분노',
 'aṣṭādaśadhā: 18 쌍',
 'tathā: 그렇게',
 'bhavati: 이다',
-'aṅdhatāmisra:=(~ḥ,남성단수주격) 어두운 분노, 생명욕(*Sinha의 주석에 의하면 생명욕(아비니베샤)를 가르킴) ',
+'aṅdhatāmisra:=(~ḥ,남성단수주격) 어두운 분노',
 'andha:어두운',
 'tāmisra:분노',
 ],
@@ -1101,7 +1102,7 @@ const samKar = [
 ],
 [
 'sk50 아홉 가지 만족',
-'쁘라끄리띠(원질), 물질(지각되는 것), 시간, 행운이라 말해지는 4가지는 내적이고/ 대상으로부터 멈춘 5가지는 외적인 것들로, 만족은 9 가지가 상정되었다.(*앞의 경문47 참조)',
+'쁘라끄리띠(원질), 물질(지각되는 것), 시간, 행운이라 말해지는 4가지는 내적이고/ (감각)대상으로부터 멈춘 5가지가 외적인 것들로, 만족은 9 가지가 상정되었다.(*앞의 경문47 참조)',
 
 '(보충설명) ',
 'ādhyātmikāḥ catasraḥ prakṛti upādāna kāla bhāgya ākhyāḥ |bāhyāḥ viṣaya uparamāt pañca nava tuṣṭayaḥ abhimatāḥ ||',
@@ -1109,7 +1110,7 @@ const samKar = [
 'ādhyātmika:(~āḥ,남성복수주격) 내적인',
 'catur:(~asraḥ,남성복수주격) 4',
 'prakṛti: 쁘라끄리띠, 원질',
-'upādāna: 지각하는, 알아차리는, 물질',
+'upādāna: 지각, 알아차림, 물질, 원인',
 'kāla: 시간',
 'bhāgya: 부분, 할당, 행운',
 'ākhyā:(~ḥ,남성복수주격?) 말해지는',
@@ -1645,7 +1646,7 @@ const samKarBooks= [
 
 'The Sacred Books of Hindus. vol.11 SamKhya Philosophy ((1)Samkhya Pravacana Sutram, with the Vrtti of Aniruddha and the Bhasya of VijNana BhikSu and Extracts from the vrtti sAra of mahAdeva Vedantin (2)Tattva samAsa (3)sAmkhya kArikA (4)PancaSikhA SUtram ) translated by Nadalal Sinha, M.A., B.L.,P.C.S. 1915',
 
-'Sankhya Philosophy by ?sh Chandra Banerji, Fasciculus 1, Sankhya Karika with Gaudapa’s Scholia and Narayqana’s Gloss, Calcutta 년도표기 없음(1900년 전후?)',
+'Sankhya Philosophy by Sh Chandra Banerji, Fasciculus 1, Sankhya Karika with Gaudapa’s Scholia and Narayqana’s Gloss, Calcutta 년도표기 없음(1900년 전후?)',
 
 -'Aniruddha’s Comentary And the Original Part of Vedantin Mahadeva’s Comentary on the Samkhya Sutras(6권), Translated By Richard Garbe, Calcutta 1892',
 
