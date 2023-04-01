@@ -1057,7 +1057,7 @@ const samKar = [
 'sk48 다섯 장애',
 '어둠(무명)* 구별 8 가지, 망상(자의식)* 또한 (8 가지), 대망상(욕망)* 10 가지이다/ 분노(혐오)* 18 가지, 어두운 분노(생명욕)*도 그렇게(18 가지) 있다.',
 
-'(보충설명) 다섯 장애에 대해서 sinha는 어둠(tamasa)을 무명(avidyā)으로, 망상(moha)을 자의식(aśmitā), 대망상(mahāmoha)을 욕망(rāga), 분노(tāmiśra)를 혐오(dveśa), 어두운 분노(aṅdhatāmiśra)를 생명욕(abhiniveśa)으로 풀이하고 있다. ',
+'(보충설명) 다섯 장애에 대해서 Sinha는 요가경의 다섯 번뇌(2장3절)의 내용으로 풀이하고 있다. 어둠(tamasa)을 무명(avidyā)으로, 망상(moha)을 자의식(aśmitā), 대망상(mahāmoha)을 욕망(rāga), 분노(tāmiśra)를 혐오(dveśa), 어두운 분노(aṅdhatāmiśra)를 생명욕(abhiniveśa)으로 풀이하고 있다. ',
 
 'bhedaḥ tamasaḥ aṣṭa vidhaḥ mohas[a]ya ca daśavidhaḥ maha-mohaḥ |tāmisraḥ aṣṭādaśadhā tathā bhavati aṅdhatāmisraḥ ||',
 
