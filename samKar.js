@@ -1038,7 +1038,7 @@ const samKar = [
 'pañca viparyaya bhedāḥ bhavaṅti aśaktiḥ ca karaṇa vaikalyāt |aṣṭāvimśāti bhedāḥ tuṣṭiḥ navadhā aṣṭadhā siddhiḥ ||',
 
 'pañca: 다섯, (무지, 자의식, 욕망, 혐오, 생명욕) ',
-'viparyaya: 전도',
+'viparyaya: 전도, 장애, 오류',
 'bheda:(~āḥ,남성복수주격) 다름, 구별',
 'bhavaṅti:(bhū, 3인칭복수현재) 이다. 되다',
 'aśakti:(~ḥ, 여성단수주격) 무능, 장애, 무력',
