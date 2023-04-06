@@ -1,21 +1,21 @@
 const samKar = [
 ['sk 0 싸앙크야 까리까', 
-'상크야 철학의 압축된 운문',
+'싸앙크야 철학의 압축된 운문',
 '(보충설명-해제) ', 
 'sāṃkhya kārika',
 'sāṃkhya: 수에 관한, 수를 잘 세는 사람, 힌두 3대 철학의 하나',
-'kārikā: 압축적인 운문',
+'kārikā: 압축된 운문',
     ],
 ['sk 1 세가지 고통:',
 '세 가지 고통의* 공격으로부터, 그것(고통)을 제거하는 원인을 알고싶지만/ 본(경험한) 것에서는 의미 없었다. 혹 (의미가) 있었다고 해도, (고통은) 확실히 절대적으로 없어지지도 않았다.',
 
 '(보충설명) *세가지 고통은 내적인 것, 외적인 것, 신적인 것이다. 내적인 고통은 정신적인 것, 육체적인 것이 있고, 외적인 고통은 인간이나 동물이나 자연에 의한 것이 있고, 신적인 고통은 초자연적 존재들에 의한 것이다. ',
 
-'duḥkha-trayā-abhighātāt-jijñāsā tat-abhighātake hetau | dṛṣṭe sā-apārthā cet na-ekānta-atyantataḥ abhāvāt ||',
+'duḥkha-traya-abhighātāt-jijñāsā tat-abhighātake hetau | dṛṣṭe sā-apārthā cet na-ekānta-atyantataḥ abhāvāt ||',
 
 'duḥkha: 고통',
-'trayā: 셋',
-'abhighāta: (~āt, 원형 han, 남성단수종격) 공격, 때림',
+'tri:(~aya, 남성복수주격) 셋',
+'abhighāta: (~āt, 남성단수종격) 공격, 때림',
 'jijñāsā: (jijñāsana의 여성형) 알고싶음',
 'tat: 그것',
 'abhighātaka: (~e, 처격, ~ka는 형용사를 만드는 접미사) (공격을) 제거하는, 반응하는',
