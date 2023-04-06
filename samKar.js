@@ -1618,31 +1618,6 @@ const samKar = [
 'vivarjita: (~āḥ, 남성복수주격) 피한, 버린',
 'cā: ',
 'api:',
-],
-[
-'sk73 원판의 거울',
-'그러므로 싸마사에서 본 이 가르침은 다른 내용이나 빠진 것이 없다./ 체계적이고 또 큰 형태의 거울처럼 그림이 함께 비춰진다.',
-
-'(보충설명) ',
-'tasmāt samāsa-dṛṣṭaṃ śāstram idaṃ nārthataḥ ca parihīnam |tantrasya ca bṛhanmūrteḥ darpaṇa-saṅkrāntam-iva biṃbam ||',
-
-'tasmāt: 그러므로',
-'samāsa: 전체',
-'dṛṣṭaṃ: 본',
-'śāstra:(~m, 중성단수주격)경전 가르침',
-'idaṃ: 이',
-'na: 아니다. 없다',
-'arthatas: (다른) 특정한 목적을 위해서, 정말이지',
-'ca: 또한',
-'parihīna:(~m, 형용사 중성단수주격) 빠진, 생략된',
-'tantra:(~sya, 중성단수속격) 체계',
-'ca: 또한',
-'bṛhan:bṛhat: 큰, 풍부한',
-'mūrti: (~eḥ, 남성단수속격) 형체, 형태',
-'darpaṇa: 거울',
-'saṃkrānta:(~m, 형용사 중성단수주격) 함께 가는, 비춰진',
-'iva: 처럼',
-'bimba:(~m,중성단수주격) 원판, 영역, 그림',
 ]
 ];
 
