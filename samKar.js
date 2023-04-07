@@ -190,18 +190,18 @@ const samKar = [
 'ca: 또한',
 ],
 [
-'sk 9 원인 결과',
+'sk 9 원인과 결과',
 '(일어난) 결과는 (원인에 이미) 존재한다. 1) 비존재는 원인이 없기 때문이고, 2)획득된(지각한) 것은 붙잡아야(선택해야) 하기 때문이고, 3)모든 것이 함께 결합되지 않기 때문이고, 4)가능한 것은 가능한(그럴만한) 작용이 있어야 하기 때문이고, 5)원인이 있어야 하기 때문이다.',
 
 '(보충설명) ',
-'asat-akaraṇāt-upādāna-grahaṇāt sarva-saṃbhavā-abhāvāt | śaktasya śakyakaraṇāt kāraṇa-bhāvāt-ca sat-kāryam ||',
+'asat-akaraṇāt-upādāna-grahaṇāt sarva-saṃbhava-abhāvāt | śaktasya śakyakaraṇāt kāraṇa-bhāvāt-ca sat-kāryam ||',
 
 'asat:비존재, 존재하지 않음',
 'akaraṇa:(~āt, 중성단수종격) 일어나지 않는, 작용하지 않는, 원인 없는',
 'upādāna: 획득된, 지각된',
 'grahaṇa: (~āt, 중성단수종격) 포착하는,  붙잡는',
 'sarva: 모든',
-'saṃbhava:(~ā, 여성형?) 결합',
+'saṃbhava: 결합',
 'abhāva:(~āt, 중성단수종격) 되지 않음, 있지 않음',
 'śakta: (~sya, 중성단수속격) 가능한',
 'śakya: 가능해진, 그럴만한',
