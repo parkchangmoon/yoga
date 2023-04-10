@@ -414,7 +414,7 @@ const samKar = [
 ],
 [
 'sk19 뿌루샤, 행위하지 않는자',
-'또한 그 반대로부터 이 뿌루샤(정신)의 증명된 증거/ 독존, 중립, 보는능력, 행위하지 않는자가 (나온다)',
+'또한 그 반대로부터 이 뿌루샤(정신)의 증명된 증거/ 독존, 중립, 보는능력(지각), 행위하지 않는자가 (나온다)',
 
 '(보충설명) ',
 'tasmāt-ca viparyāsāt siddhaṃ sākṣitvam-asya puruṣasya |kaivalyaṃ mādhyastyaṃ draṣṭṛtvam-akartṛbhāvaḥ ca ||',
@@ -427,8 +427,8 @@ const samKar = [
 'asya: (idam, 남성중성단수속격) 이것의 ',
 'puruṣa:(~sya, 남성단수속격) 뿌루샤, 정신',
 'kaivalya: (~ṃ, 중성단수주격) 독존',
-'mādhyastya:(~ṃ, 중성단수주격) 중재, 중립',
-'draṣṭṛtva:(~m, 중성단수주격) 보는 능력, 지각',
+'mādhyastya:(~ṃ, 중성단수주격) 중립',
+'draṣṭṛtva:(~m, 중성단수주격) 보는, 지각',
 'akartṛbhāva: (~ḥ, 남성단수주격)  행위하지 않는 존재',
 'ca: 또한',
 ],
