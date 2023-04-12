@@ -591,10 +591,10 @@ const samKar = [
 ],
 [
 'sk27 마음, 분별하는 감관',
-'이들 가운데, 두가지(정신, 원질) 본질을 가진 마음은 또한 분별(사고)하는 감관이다. (이것도 지성기관 행위기관과) 동질성이지만/ 구나 전변 차이로 또한 다양한 외적 구별들이(로) 있다. ',
+'이들 가운데, 두가지(정신, 원질) 본질을 가진 마음은 또한 분별(사고)하는 감관이다. (이것도 감관들과) 동질성이지만/ (감관들은) 구나 전변 차이로 또한 다양한 외적 구별들이 있다. ',
 
 '(보충설명) ',
-'ubhaya-ātmakam-atra manaḥ saṅkalpakam-indriyaṃ ca sādharmyāt |guṇa-pariṇāma-viśeṣāt-nānātvaṃ bāhya-bhedāḥ[bhedāt] ca ||',
+'ubhaya-ātmakam-atra manaḥ saṅkalpakam-indriyaṃ ca sādharmyāt |guṇa-pariṇāma-viśeṣāt-nānātvaṃ bāhya-bhedāḥ(bhedāt) ca ||',
 
 'ubhaya: 둘',
 'ātmaka:(~m,중성단수주격) 구성된, 본질을 가진',
