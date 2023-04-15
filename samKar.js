@@ -798,9 +798,9 @@ const samKar = [
 ],
 [
 'sk36 뿌루샤 목적, 붓디',
-'이 구나의 차이들로 각각 구별되는 것들은 등불과 유사하게/ (이들은) 전체로 뿌루샤 목적을 위해 붓디에서 드러나도록 제공한다.',
+'구나의 차이들로 각각 구별되는 이것들은 등불과 유사하게/ (이들은) 전체로 뿌루샤 목적을 위해 붓디에서 드러나도록 제공한다.',
 
-'(보충설명) 다섯가지 지각기관들과 다섯가지 행위기관들 그리고 마음(마나스), 아함까라(자의식), 이것들은 전체로 뿌루샤의 목적을 위해서 자신들이 붓디에 드러나도록 제공한다.',
+'(보충설명) 다섯가지 지각기관들과 다섯가지 행위기관들 그리고 마음(마나스), 아함까라(자의식), 이것들은 전체로 뿌루샤의 독존(해탈)의 목적을 위해서 자신들이 붓디에 드러나도록 한다.',
 'ete pradīpakalpāḥ paraspara vilakṣaṇāḥ guṇa viśeṣāḥ |kṛtsnaṃ puruṣayā arthaṃ prakāśya buddhau prayacchanti ||',
 
 'ete: (etad, 남성복수주격) 이',
@@ -819,10 +819,10 @@ const samKar = [
 ],
 [
 'sk37 뿌루샤 목적 붓디 식별',
-'모든 관련된 뿌루샤를 위한 경험(즐거움)은 붓디가 일으킨다./ 그것(붓디)은 또한 정말이지 토대와 뿌루샤의 미세하게 다른 것을 식별한다.',
+'그러므로 모든 관련된 뿌루샤의 경험(즐거움)은 붓디가 일으킨다./ 그것(붓디)은 또한 정말이지 토대와 뿌루샤의 미세하게 다른 것을 식별한다.',
 
 '(보충설명) ',
-'sarvaṃ prati upabhogaṃ yasmāt puruṣasya sādhayati buddhiḥ |sa eva ca viśinaṣṭi punaḥ pradhāna puruṣāṅtaraṃ sūkṣmam ||',
+'sarvaṃ prati upabhogaṃ yasmāt puruṣasya sādhayati buddhiḥ |saiva ca viśinaṣṭi punaḥ pradhāna puruṣāṅtaraṃ sūkṣmam ||',
 
 'sarva:(~ṃ, 중성단수주격) 모든',
 'prati: ~관해, 관련된',
@@ -831,10 +831,11 @@ const samKar = [
 'puruṣa:(~sya, 남성단수속격) 뿌루샤, 사람 ',
 'sādhayati:(sādh, 3인칭단수현재 사역형) 일으키다.',
 'buddhi:(~ḥ, 여성단수주격) 붓디, 지성',
+'saiva=sā eva',
 'sā: 그녀(붓디)',
 'eva: 정말',
 'ca: 또한',
-'viśinaṣṭi: (원형 viśiṣ, 3인칭단수현재) 식별하다, 구별하다',
+'viśinaṣṭi: (원형 viśiṣ, P.7류. 3인칭단수현재) 식별하다, 구별하다',
 'punaḥ: 다시',
 'pradhāna: 토대 ',
 'puruṣa: 뿌루샤',
