@@ -977,7 +977,7 @@ const samKar = [
 ],
 [
 'sk44 법 비법 지혜 해탈',
-'다르마(법)로 위로 가고, 아다르마(비법)로 아래로 가게 된다./ 또 지혜로 완성이 (되지만), (그) 전도된 것으로부터는 속박이 얻어진다.',
+'다르마(법)로 위로 가고, 아다르마(비법)로 아래로 가게 된다./ 또 지혜로 완성이 (되지만), (그) 전도된 것(무지)으로부터는 속박이 얻어진다.',
 
 '(보충설명) ',
 'dharmeṇa gamanam ūrdhva gamanam adhastād bhavati adharmeṇa |jñānena ca apavargaḥ viparyayāt iṣyate bandhaḥ ||',
