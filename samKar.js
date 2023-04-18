@@ -977,7 +977,7 @@ const samKar = [
 ],
 [
 'sk44 법 비법 지혜 해탈',
-'다르마(법)로 위로 가고, 아다르마(비법)로 아래로 가게 된다./ 또 지혜로 완성이 (되어), 속박은 전도로부터 벗어나게된다. ',
+'다르마(법)로 위로 가고, 아다르마(비법)로 아래로 가게 된다./ 또 지혜로 완성이 (되지만), (그) 전도된 것으로부터는 속박이 얻어진다.',
 
 '(보충설명) ',
 'dharmeṇa gamanam ūrdhva gamanam adhastād bhavati adharmeṇa |jñānena ca apavargaḥ viparyayāt iṣyate bandhaḥ ||',
@@ -994,7 +994,7 @@ const samKar = [
 'ca: 또한',
 'apavarga:(~ḥ,남성단수주격) 해체, 완성',
 'viparyaya:(~āt, 중성단수종격) 전도,오류',
-'iṣyate: 생각되다, 여겨지다.',
+'iṣyate:(iṣ,3인칭단수현재 수동) 구하다. 얻다',
 'bandha:(~ḥ,남성단수주격) 속박,묶임',
 ],
 [
