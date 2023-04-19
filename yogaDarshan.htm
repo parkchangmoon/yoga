@@ -93,7 +93,7 @@ x += "<p class= 'wordi' >" + yogaSutra[i][j] + "<br>";
 				});
 		 };
 	
-	// BG 자료 가져오기
+	// BG 자료 가져오기 아직 정리 안됨, 요가경을 바꿔야
   function bgvdFunction() {
     	//아래는 head에 있는 것 붙여놓음
   $(document).ready(function(){
@@ -104,16 +104,16 @@ x += "<p class= 'wordi' >" + yogaSutra[i][j] + "<br>";
       //여기까지는 붙여놓은 것 끝
 
 let x = "";
-for (let i in yogaSutra) {				
+for (let i in bhagaVad) {				
 			
   x += "<div>"
-+ "<h3>" + yogaSutra[i][0] + "</h3>" 
-+ "<h4 class='hani'>" + yogaSutra[i][1] + "</h4>"
-+ "<p class='romi'>" + yogaSutra[i][2] + "</p>"
++ "<h3>" + bhagaVad[i][0] + "</h3>" 
++ "<h4 class='hani'>" + bhagaVad[i][1] + "</h4>"
++ "<p class='romi'>" + bhagaVad[i][2] + "</p>"
 + "<p class= 'wordi' >" ;
 
-		for (let j in yogaSutra[i].word) {
-				x += yogaSutra[i].word[j] +"<br>";
+		for (let j in bhagaVad[i].word) {
+				x += bhagaVad[i].word[j] +"<br>";
 
 		}
 		x += "</p>"
