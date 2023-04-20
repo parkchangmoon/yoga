@@ -39,7 +39,6 @@ p {
 <button type='button' onclick='ysFunction()'>요가경</button>
 <button type='button' onclick='bgvdFunction()'>바가바드</button>
 
-<button type='button' onclick='srtwordFunction()'>소트단어</button>
 <button type='button' onclick='dicFunction()'>싼스사전</button>
 <button type='button' style='margin-left:30' onclick='newFunction()'>새로고침</button>
 	<br><br>
@@ -263,27 +262,6 @@ function chajaoFunction() {
 	document.write(gg1);
 	};
 
-// 소트 단어
-	function srtwordFunction() {
-		let tt="";
-		let tt1="";
-		
-		for (let i in samKar) {
-		    	 let kk=samKar[i][0].slice(0,4);
-		    	for (let j =4; j<samKar[i].length; j++) {
-				tt += samKar[i][j] + "  " + kk + "&";
-				}
-				}
-		
-		for (let i in yogaSutra) {
-		    	 let kk=yogaSutra[i][0].slice(0,6);
-		    	for (let j =5; j<yogaSutra[i].length; j++) {
-				tt += yogaSutra[i][j] + "  " + kk + "&";
-				}
-				}
-					let newBgvd =tt.split("&");
-				document.getElementById("words").innerHTML  = newBgvd.sort().join("<br>");
-};
 
 // 싼스 사전
 function dicFunction(){ 
