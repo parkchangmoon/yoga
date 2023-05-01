@@ -9,6 +9,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
 <script src="https://parkchangmoon.github.io/yoga/yogaSutra.js"></script>
+
 <script src="https://parkchangmoon.github.io/yoga/samKar.js"></script>
 
 <script>
@@ -65,8 +66,8 @@ p {
 // YS 자료 가져오기
   function ysFunction() {
    let ll=yogaSutra.length;
-   document.getElementById("ysyonsup").innerHTML= (ll + "입니다");
-   /* 
+  // document.getElementById("ysyonsup").innerHTML= (ll + "입니다");
+    
   $(document).ready(function(){
 		    $("div").click(function(){
             	 $(this).children("p").toggle();
@@ -86,7 +87,7 @@ for (let i in yogaSutra) {
 + "<p class='desc'>" + yogaSutra[i][ll] + "</p>"
 
 
-for (let j =5; j<yogaSutra[i].length-1; j++) {
+for (let j =4; j<yogaSutra[i].length-1; j++) {
 x += "<p class= 'wordi' >" + yogaSutra[i][j] + "<br>";
 		}
 		x += "</p>"
