@@ -3052,5 +3052,5 @@ const yogaSutraBooks = [
 'Jayadeva Yogendra, Yoga Sutra of Patanjali, Zen Publications, 2009',
 
 '윤홍식, <요가수트라 강의> pdf파일. 인터넷 공개자료. 여기에는 요가경 전체 번역과 간단한 설명이 첨부되어 있음',
-*/
+
 ];
