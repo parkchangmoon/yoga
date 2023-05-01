@@ -72,14 +72,16 @@ p {
   let x = "";
 for (let i in yogaSutra) {				
 	 kk= yogaSutra[i][0].replace('ys', '요가경');
+	 let ll=[i].length;
 	 x += "<div>"
 + "<h4 class='loke' >" + kk + "</h4>" 
 + "<h4 class='hani'>" + yogaSutra[i][1] + "</h4>"
-+ "<p class='desc'>" + yogaSutra[i][2] + "</p>"
-+ "<p class='devi'>" + yogaSutra[i][3] + "</p>"
-+ "<p class='romi'>" + yogaSutra[i][4] + "</p>"
++ "<p class='devi'>" + yogaSutra[i][2] + "</p>"
++ "<p class='romi'>" + yogaSutra[i][3] + "</p>"
++ "<p class='desc'>" + yogaSutra[i][ll] + "</p>"
 
-for (let j =5; j<yogaSutra[i].length; j++) {
+
+for (let j =5; j<yogaSutra[i].(length-1); j++) {
 x += "<p class= 'wordi' >" + yogaSutra[i][j] + "<br>";
 		}
 		x += "</p>"
