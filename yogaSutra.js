@@ -2208,6 +2208,8 @@ const yogaSutra = [
 'kaivalya: (~m, 중성단수주격) 독존',
 ],
 
+]
+/*
 
 // 제4장 독존품(kaivalya)
 
