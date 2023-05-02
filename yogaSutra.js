@@ -1448,8 +1448,6 @@ const yogaSutra = [
 'indriya: (~āṇām, 중성복수속격) 감관들의',
 ],
 
-]
-/*
 
 //제3장 신통품(vibhūti)
 
@@ -2210,6 +2208,8 @@ const yogaSutra = [
 'kaivalya: (~m, 중성단수주격) 독존',
 ],
 
+]
+/*
 
 // 제4장 독존품(kaivalya)
 
