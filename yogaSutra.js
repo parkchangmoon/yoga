@@ -704,6 +704,8 @@ const yogaSutra = [
 'samādhi: (~h, 남성단수주격) 삼매',
 ],
 
+]
+/*
 
 // 제2장 수행품 (sādhana)
 
