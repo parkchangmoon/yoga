@@ -152,7 +152,7 @@ for (let i in bhagaVad) {
 for (let i in samKar) {				
 	 kk= samKar[i][0].replace('sk', '쌍까');
 	 x += "<div>"
-+ "<h4 class='loke' >" + kk + "</h4>" 
++ "<h4 class='loke' >" + kk + " :" + "</h4>" 
 + "<h4 class='hani'>" + samKar[i][1] + "</h4>"
 + "<p class='romi'>" + samKar[i][2] + "</p>"
 
@@ -164,7 +164,7 @@ x += "<p class= 'wordi' >" + samKar[i][j] + "<br>";
 		}
 		document.getElementById("sutra").innerHTML= x;
 			
-			$(".loke").css("color", "gray");
+		//	$(".loke").css("color", "gray");
 			$(".devi, .romi").css("color", "violet");
 			$(".wordi").css("color", "blue");
 		
