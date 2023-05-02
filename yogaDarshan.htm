@@ -79,7 +79,7 @@ for (let i in yogaSutra) {
 	 kk= yogaSutra[i][0].replace('ys', '요가경');
 	 let ll=[i].length;
 	 x += "<div>"
-+ "<h4 class='loke' >" + kk + "</h4>" 
++ "<h4 class='loke' >" + kk + " :" + "</h4>" 
 + "<h4 class='hani'>" + yogaSutra[i][1] + "</h4>"
 + "<p class='devi'>" + yogaSutra[i][2] + "</p>"
 + "<p class='romi'>" + yogaSutra[i][3] + "</p>"
@@ -93,8 +93,10 @@ x += "<p class= 'wordi' >" + yogaSutra[i][j] + "<br>";
 		}
 		document.getElementById("sutra").innerHTML= x;
 			
-			$(".loke, .desc, .wordi").css("color", "blue");
+			$(".loke").css("color", "orange");
 			$(".devi, .romi").css("color", "violet");
+			$(".wordi").css("color", "blue");
+			
 			
 			$(document).ready(function(){
 				$("div").children("p").hide();
