@@ -75,7 +75,7 @@ p {
 
 
   let x = "";
-  // let ll= "";
+  // var ll= "";
 for (let i in yogaSutra) {				
 	 kk= yogaSutra[i][0].replace('ys', '요가경');
 	 // ll=yogaSutra[i].length;
@@ -85,7 +85,7 @@ for (let i in yogaSutra) {
 + "<p class='devi'>" + yogaSutra[i][2] + "</p>"
 + "<p class='romi'>" + yogaSutra[i][3] + "</p>"
 
-for (let j =4; j<yogaSutra[i].length; j++) {
+for (let j =4; j<yogaSutra[i].length-1; j++) {
 x += "<p class= 'wordi' >" + yogaSutra[i][j] + "<br>";
 		}
 		x += "</p>"
