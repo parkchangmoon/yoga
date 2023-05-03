@@ -84,7 +84,9 @@ p {
 + "<p class='devi'>" + yogaSutra[i][2] + "</p>"
 + "<p class='romi'>" + yogaSutra[i][3] + "</p>"
 
-for (let j =4; j<yogaSutra[i].length-1; j++) {
+for (let j =4; j<yogaSutra[i].length; j++) {
+	
+	if (yogaSutra[i][j]).includes("(보설)")   
 x += "<p class= 'wordi'>" + yogaSutra[i][j] + "<br>";
 		}
 		
