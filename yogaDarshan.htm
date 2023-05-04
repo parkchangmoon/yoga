@@ -86,20 +86,11 @@ pre {
 + "<p class='romi'>" + yogaSutra[i][3] + "</p>"
 
 for (let j =4; j<yogaSutra[i].length; j++) {
-	//이하 5월4일 연습
-	if (!yogaSutra[i][j].includes("(보설)")==true) {
-	x += "<p class= 'wordi'>" + yogaSutra[i][j] + "<br>";
-	}
-			x += "</p>"
-			+ "</div>";
-			else {
-	
-	//이상 5월4일 연습
-	x += "<pre class= 'desc'>" + yogaSutra[i][j] + "<br>";
+	x += "<pre class= 'wordi'>" + yogaSutra[i][j] + "<br>";
 		}
 			x += "</pre>"
 			+ "</div>";
-		}
+		
 		}
 		document.getElementById("sutra").innerHTML= x;
 			
