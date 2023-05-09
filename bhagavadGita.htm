@@ -19,7 +19,7 @@ $(document).ready(function(){
     });
     
     $(".button2").click(function(){
-    var  dd=$("#bgchaja").val();
+    var  dd=$("#chaja").val();
       $("div").not('div:contains("'+ dd +'")').hide();  
      $('div:contains("'+ dd +'")').each(function(){
           var regex=new RegExp(dd,'gi');
